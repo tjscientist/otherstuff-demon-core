@@ -33,6 +33,21 @@ Seed bookmarks for the history deep-dive (vol1) and the replica build (vol2). Ad
 - [Los Alamos National Laboratory — Flickr archive](https://www.flickr.com/photos/losalamosnatlab/) — original photographs of the cores and boxes
 - [Sortimo T-BOXX — Savage Industries Shop](https://adamsavage.com/products/savage-industries-sortimo-t-boxx) — Adam Savage's preferred toolbox aesthetic, useful proportional reference
 
+## Pit and initiator geometry
+
+- [Urchin (detonator) — Wikipedia](https://en.wikipedia.org/wiki/Urchin_(detonator)) — Po-Be initiator dimensions: 20 mm Be shell (6 mm wall), 8 mm Po-coated inner pellet, 15 latitudinal wedge grooves, ~7 g, in 25 mm cavity
+- [BREDL Plutonium Report III](https://archive.bredl.org/sapc/Pu_ReportIII.html) — secondary pit geometry source (note: HTTPS cert is broken on bredl.org; access via HTTP if needed)
+
+## Material and supplier references (build-specific)
+
+- [Richlite Company](https://www.richlite.com/) — paper-phenolic composite, the actual material Adam used
+- [Richlite at Maker Material Supply](https://www.makermaterialsupply.com/collections/richlite) — retail source for 2″-thick slabs
+- [Richlite at Boedeker](https://www.boedeker.com/Family/phenolic) — alternative supplier
+- [Midwest Tungsten Service — tungsten alloy info](https://www.tungsten.com/material-info/tungsten-heavy-alloy-w-ni-fe-cu) — MT-17F WNF data sheet (90% W, 7% Ni, 3% Fe, 17 g/cm³)
+- [Midwest Tungsten Service — sphere catalog](https://shop.tungsten.com/cubes-spheres-toys/spheres/) — standard sizes; 3.5″ requires custom quote (`mts@tungsten.com`)
+- [PJ1 Fast Black Wrinkle/Texture paint](https://pj1.com/product/fast-black-texture-paint/) — the actual crackle paint Adam used (bake 250–300 °F, 30–60 min)
+- [Eagle Alloys — machining tungsten heavy alloys](https://www.eaglealloys.com/tungsten-alloy/machining-tungsten-alloys/) — wire/sinker EDM, bi-metal saw blade, carbide tooling guidance
+
 ## Image-sourcing strategy
 
 For each figure slot in vol1 / vol2, prefer Wikimedia Commons first (PD or CC) via Photo Helper `fetch`, then Openverse for hobbyist build-process shots, then `pagefetch` from a specific vendor URL, then `webfetch` last resort. See global CLAUDE.md (Photo Helper protocol) for the per-source caption format.

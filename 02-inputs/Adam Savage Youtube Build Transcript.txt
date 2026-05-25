@@ -1,0 +1,1095 @@
+
+0:45
+cuz I'm too hot to handle. I'm hotter than a candle. I'm sloppy like Oscar but neat like Tony Randall. I made a demon
+0:52
+core and now I made the handle. We're going to have some fun today. Hi
+0:57
+everybody, Adam Savage here in my cave. I know it sounds strange to say we're going to have fun at the outset of video
+1:04
+called the demon core. Yet there it is. I have a natural proclivity to tell
+1:10
+stories. I want to tell good stories. When good stories about the world show
+1:15
+up and I know the truth of them, I'm delighted
+1:20
+to give the correct information. And a good story is a great way to promulgate scientific information. And there are a
+1:28
+few truly amazing stories in science communication that that sort of bring
+1:34
+together because science is about exploration. It's about experiment. It's about iteration. And this means it is
+1:41
+always a story of human triumph over their own and collective ignorance. It is always a surprising story of
+1:48
+adventure and danger where danger can be surprising and every now and then you
+1:54
+come across a story that pulls all that into one amazing ball and that ball is
+2:00
+known as the demon core. Um it's this is the apotheiois of stories regarding
+2:05
+human ingenuity, exploration, expertise and hubris. Um, this is a ball of metal that claimed
+2:13
+two lives uh before it was melted back into the American stockpile in the late
+2:19
+40s. I am not going to necessarily tell you the whole Demon Core story in this
+2:24
+video. Others have done it better, including my great friend Kyle Hill,
+2:30
+who's got an unbelievable set of videos on visiting Chernobyl, Three-Mile Island, Fukushima. He came back, he gave
+2:37
+me a doimeter. it. Kyle is Kyle is our our our current national treasure
+2:43
+nuclear communicator. I really I just wish no one would ever say nuclear again. I It's It hurts me just a little
+2:50
+bit. I don't really care and I'm never going to correct someone in the wild, but it's nuclear. I know those the uk
+2:59
+doesn't show up very much in English. It's very un unexpected on your mouth. Why am I talking about the demon core?
+3:04
+Hey, that is a terrific question and I'm glad you asked. It's because I have just
+3:10
+received from Midwest Tungsten Service a faximile of sorts. Now, I found out
+3:17
+about this from a fan came by my table. I can't even remember where. It might have been Kansas City, might have been
+3:23
+Philadelphia. They'll know and they'll tell us in the comments. Here is the certification that what I have received
+3:32
+is a 3 and 1/2 inch diameter tungsten alloy sphere MT-17F9
+3:40
+WNF. Uh, that sounds like that mess there's some nickel and some iron in there.
+3:47
+Hardness HRC25. Not incredibly hard. Yes, tungsten 90%,
+3:54
+nickel 7%, iron 3%, and some other elements. It is mercury free. There's
+3:59
+the cert. Um, what these elements do when you bring them all together is they
+4:04
+create an alloy that is precisely in every way the weight of the demon core. 14 odd
+4:14
+some odd pound. It's heavy. Uh, ball of
+4:19
+plutonium [snorts] coated in nickel. The plutonium is coated in nickel to keep it from
+4:26
+emitting too much radiation. Oh my god. Oh yeah. Oh, we're gonna Oh.
+4:33
+Oh yeah. Oh, tungsten, man. tungsten is so
+4:38
+ah heavy
+4:44
+or does the earth suck? Okay, so
+4:50
+I think we've just put it up. I did a little video um using my radius cutter
+4:55
+to make this uh hemispherical cut that was at this ball is so freaking heavy.
+5:02
+That was for this ball. So, let us um let us get a camera on it and see if it fits.
+5:12
+Oh, that is uh that's dead. That's right.
+5:18
+Yeah. Nice. Okay.
+5:25
+Oh. Oh. Oh. We're gonna have a lot of fun with this this week. This is going to be probably
+5:32
+a three-day build. The critical thing to know, uh, see what I did there about the
+5:38
+demon core here is that they made three of these. Three. They made three. Three
+5:44
+of these. Three drinks, please. They made three of these. Um, Fat Man and
+5:50
+Little Boy dropped on Hiroshima and Nagasaki. Uh, and there was a third one planned to be dropped. It was not
+5:55
+dropped. So, they popped this out. And that's when some uh plucky scientists at
+6:01
+Los Alamos had their way with the demon core and it had its way with them. Uh
+6:06
+but the thing to tell you is the whole demon core story is about reflection. It is about it is about uh you know an
+6:13
+atomic structure shedding gamma rays. I think it's gamma rays. Uh, and then when
+6:21
+you put stuff around it like tungsten carbide or other materials that reflect
+6:26
+that, they can bring all these atoms vibrating and bouncing off of each other to superc criticality. But I can't
+6:33
+remember why I was originally telling you about that. Oh, right. Right. So, they brought this core back to Los
+6:39
+Alamos. They didn't know how to take care of it, right? Like how to carry how
+6:46
+do you carry around file material like that? So, uh, one of their machinists, hold
+6:53
+on, I'm going to look up his name. So, one of the engineering machinists in their gamma shop named, uh, Herbert
+7:00
+Lair, uh, built this box, um, out of magnesium. And the reason he wanted to
+7:07
+house the the demon core in magnesium is because magnesium is apparently
+7:12
+transparent to gamma rays. So, he built this spectacularly weird looking box.
+7:18
+And my favorite part is like they put fins in it for cooling, right? So it increase the surface area. And then
+7:24
+someone was like, "What if we drop it?" So they made this box, this magnesium box all around the demon core with that
+7:29
+perfectly spherical space in the middle that fit only the demon core. That's literally what I'm going to build. Um,
+7:36
+but I'm not building it out of magnesium. I did look into that. No, you don't want to machine with
+7:44
+magnesium. It catches on fire. I'm going to make mine out of Rich
+7:50
+Lightite and I'm also going to do a crackle finish because they did do a crackle finish on one of theirs. Um, the
+7:57
+shock absorption is the best part of this story, but we're going to get to that later.
+8:02
+Rich Light here is a um a phenolic. It is a uh paper and resin product uh that
+8:12
+is monolithic. That is to say, it finishes on all sides the same. It has no grain. It has no texture. You can
+8:19
+sand it nice and smooth. Folks use these uh use this stuff for fretboards.
+8:25
+Um I've got four pieces. Eight. The box that carries this from Los Alamos was
+8:32
+about by my measurement 7 and 1/4 in
+8:37
+square cube. 7 and 1/4 in cube. So, I have cut here uh four 8 by8
+8:45
+pieces. Yep. And I'm going to epoxy them
+8:52
+together. [snorts]
+8:58
+And then I'm going to take them back apart. Uh
+9:03
+no, I'm not going to take them back apart. I'm going to epoxy them together, let them dry overnight, and then I'm going to basically chuck this into the
+9:11
+mill and plane it six sides down and add in all the fins and everything. Uh, but
+9:17
+the very first step is to epoxy all this stuff together to make a single monolithic block. Um, also there were
+9:24
+two at least two demon core holders and one of them
+9:30
+was yellow and one was a black crackle finish. And I think the black crackle finish is the one I'm going to
+9:36
+replicate. Yellow's fine, but black crackle. Yeah, we're going to do that. We're going to we're going to end up um
+9:45
+[music] baking it. Yeah. All right. I think that that will hold.
+9:53
+Oh, it's
+9:58
+Oh, this is fun. This is fun. This is just We're cleaning out a mold.
+10:04
+Oh, look at that. Look at that. Nice. All right, we are going to
+10:14
+square this up with a facing mill and then we are going to uh mark it out
+10:23
+and start to uh make the cuts to the mill. What I've got
+10:30
+here is a 7 and 1/4 in cube inside an 8
+10:36
+in cube, which means uh and I've double checked that all the edges are square.
+10:42
+They're not all identical, but they are all square to each other uh and perpendicular and correctly flat and my
+10:49
+mill is reasonably trimmed. Uh, so [clears throat] in order to get the 7 and 1/4 in box out
+10:56
+of here, what I need is, um, what I need to do is make myself
+11:04
+a cut 2 and 3/4 in up from the edge. Two
+11:09
+and sorry, 2.38, not 3/4, 38. So, here's how that's going to actually work is I'm
+11:16
+going to make a mark at two and a half knowing actually I'm going to do it at two and 5/8. And I'm going to make a cut
+11:23
+there because I've got plenty of room to play with.
+11:29
+And if I cut there, yeah, that's just the curve of the blade. Uh, then I will
+11:35
+mill my bottom piece and my top piece to the correct orientation from each [snorts] other. But first up, let us
+11:42
+make a cut.
+12:24
+Yep. Two and a half. I got some room to mess with.
+13:04
+Hey, hey, hey.
+13:17
+Heat. Heat. N. [music]
+13:25
+[music] Hey,
+13:33
+hey, hey. [music]
+14:32
+Dude, you have no idea how messy it is in here. It's crazy.
+14:39
+See that? I got to clean all that before I continue. It's absolute.
+14:44
+Yeah, let me clean. New day, new parts. This is all going really, really well.
+14:49
+Uh, I have the main body. I am now I have now, give me just a sec. Now, if
+14:55
+you remember, inside of this is a spherical hole to receive this. Now, it
+15:03
+can't be half and half, which was the first thought that I had because you can't lift this ball up unless you're
+15:09
+incredibly incredibly strong. So, you got to make it like a, you know, like 4 fifths 1/5. And to test my radius
+15:18
+cutter, I cut this. And this is within uh this was within about 50 thou of the
+15:24
+dimension. But I can now put this onto my uh onto a surface plate with a
+15:31
+surface gauge and I can determine within a very small margin what the exact
+15:37
+diameter of my tungsten ball is so that I can set my radius gate cutter to the
+15:44
+same depth. This is a really fun build. Um, all of
+15:50
+this machining and tolerance is well within my uh mental wheelhouse and there
+15:57
+are still some interesting challenges. Um, but this is uh this is enough fun
+16:03
+that like I went home and just thought about this build all night. Just like p things that I would do today, I just
+16:08
+picture in my head and walked through the procedures. Really really delightful. Um, this is the platform
+16:16
+that will sit in the base and it's going to be flush up to here and it'll have a a little whoop whoop right there to
+16:23
+receive the ball. This will get a much deeper cuz that will go on top and then
+16:30
+I will figure out a way to suck all those puppies together.
+16:35
+Yeah. Time to break out the radius cutter and determine what our actual dimensions are going to be.
+16:52
+Well, yeah, that makes sense. This looks to be within 100 microns of 3 and 12 in,
+17:01
+which is spectacular. I am going to overshoot uh by that much. So, I'm going to do uh
+17:09
+3.52 in in diameter for my radius cutter. So,
+17:15
+3.52. All right. So, here's how to set up a radius my radius cutter. Um
+17:23
+the there is a flat machined on the front of the various yolks that gives me
+17:30
+a precise measurement to the center of that yolk. And on this machine on this
+17:36
+yolk it's 1/2 inch from the center of that to that flat face. Now that half
+17:42
+inch is something I already add to the radius I want to cut which turns out to
+17:48
+be 1.76 minus the half inch is 1.2 26. So, what
+17:53
+I've set up here is two gauge block stacks that are both at uh 1.26 in
+17:59
+exactly. And then I set this up on there. I let this drop down and the
+18:04
+distance of that tip from this center is precisely the radius of that ball.
+18:11
+That's the goal. Uh we're going to set it up and knock it down. One of the most
+18:17
+critical things I need if I am going to uh properly calibrate my radius cutter
+18:25
+is I need to bring it in on the side to the precise dimension that I need. And this circle is a test circle but it is
+18:33
+cut to exactly it's about 5 thou under 3.52
+18:38
+in. So it is really close to the critical dimension I want. I am going to uh I'm
+18:46
+going to line up my radius cutter so that it aligns with this so that when I
+18:53
+bring it to center, it will be dead on the center of this. Yes, that's the
+18:58
+goal. Okay. So, [snorts] actually, you know what? I'm going to
+19:03
+cut this down.
+19:12
+Great. I'm okay. Now I'm in. Uh, all right. So that is the critical dimension
+19:17
+of the outside of the ball and that's what we are going to frame up my radius cutter.
+19:34
+Something essential messed up there. So I have reset this uh and hopefully I'm in the zone.
+19:45
+All right, this should be it. This should just try a test here. Well, no, wait.
+19:51
+No, we don't want to try a test on this thing.
+19:59
+That seems like it's all lining up the way I expect it to. So, here we go. This
+20:06
+is tight. This will spin.
+20:12
+What?
+20:36
+That looks reasonably consent.
+20:41
+Oh, I can.
+20:50
+Bingo. All right.
+21:22
+Heat. Heat.
+21:28
+Heat
+21:41
+up
+21:52
+here.
+22:02
+Oh, sorry about that. Oh, that's really sweet. I'm super happy about that.
+22:22
+Heat. Heat.
+23:13
+What?
+23:42
+Heat. Heat.
+24:01
+Okay. Uh, setup is everything. Um,
+24:07
+setup is absolutely everything. I set up the radius cutter on the gauge blocks. I
+24:13
+had made a fundamental mistake that I didn't find until I redid all my measurements.
+24:20
+Setup is everything. Um, [clears throat and cough] but now
+24:25
+I've got these two radi and um, this one is tight enough. They're they're dead
+24:31
+on. I get a tiny bit of a vacuum effect
+24:37
+there. I measured it and it's like spot on. Uh, so I'm going to uh I'm going to
+24:44
+uh here we go. We're going to set up. This is the base of the Demon Core box. This is the base of
+24:52
+the holder. So, this look at that. Slides right in there. Isn't that pretty? This sits here like that. And
+25:00
+then, um, right, this will sit up here, but it's going to be inside here. And I
+25:05
+don't even know. Yeah. Oh, yeah. Totally works. Oh, wow.
+25:10
+Oh my god. that I'm actually just the tiniest tiniest bit too tall. Is it really? [snorts] It might be that I'm
+25:18
+like an eighth of an inch too tall, which would be the most ideal. The most
+25:24
+ideal. It looks like I'm exactly that. Wow.
+25:29
+Oh, right though. No, no, no, no, no. Oh, wait. No, it's not true because I've got the relief here. So before I do
+25:36
+final finishing on the outer box, uh I need to provide a little chamfer relief
+25:42
+inside this hole to receive so that the balls support can sit all the way inside
+25:48
+this thing. And to do that, I'm going to need to swap out my six jaw for a four jaw. It's going to take a minute, but
+25:54
+here we go. I had the camera off, but I did the chamfer on the inside. Uh and it fits the piece that I wanted it to
+26:00
+exactly. And because I had this entire block centered on this um on the lathe,
+26:07
+I thought, well, top dead center is a uh a thermometer. Uh so I'm going to drill
+26:13
+the tap drill for a/2 in NPT pipe fitting into the top of this. And that will be our temperature.
+26:23
+There it is all the way through.
+26:36
+There it is. That's it. Done. [clears throat]
+26:42
+[snorts]
+26:50
+That's great. Good. Yeah. Okay. So,
+26:58
+I am now going to do a couple of things in succession. Uh, I've got some methylmethacrylate, which I'm going to
+27:04
+use to glue this piece into here to capture this at all the right
+27:11
+orientations.
+27:19
+Great. There it is. Okay. So, I need the dowel pins in there, too.
+27:32
+Marvelous. Okay, everything is in a nice orientation. So, what I'm going to do is I'm going to send some
+27:38
+methylmethacrylate down in there. That will secure this piece.
+27:44
+Um, and then once that's set, I am going to chuck this into the mill and put down the two hold down bolts and install
+27:50
+those. That will allow me to then muck with this
+27:55
+on a bunch of different levels. Great.
+28:06
+It's going slowly but really, really well. Oh my god, this is heavy.
+28:12
+This is beautiful. This is great. I want to just point out that like the ball is in here.
+28:20
+No movement at all. It's perfectly secure.
+28:28
+These uh 6-in cap heads are going to be the hold down bolts. There's going to be one here
+28:36
+and here. The hinge will go there.
+28:47
+Great. That'll land it right there.
+29:01
+on a job like this is when I um I do uh measured counter
+29:08
+sinks because that when the counter sinks are all
+29:13
+identical, it really sells. Most of the time I don't care about counter sinks,
+29:18
+but like when I want it to look like it was manufactured by the military, then I do. All right. Now, we're going to put
+29:25
+some helic coils in there.
+29:40
+Oh, I just did that.
+29:50
+[snorts]
+30:10
+I think this is rescuable. [snorts]
+30:17
+My crap. Crap. Crap. On a crutch. This is so This is not awesome.
+30:32
+movement. That's positive. If I can get this out,
+30:38
+I can rescue
+30:52
+[snorts] Amazing.
+30:58
+We might even be able to get the healer in there.
+31:21
+Oh [laughter]
+31:28
+yeah. Um, all this is to say that after all that, it's so close it's almost a
+31:36
+negligible difference. So now let me pop that in
+31:42
+and see if this actually works.
+31:47
+There it is. I'm going to have to order another one of these uh 1/2 inch 13 helic coil taps.
+31:56
+But astoundingly, I did not undo anything here. Um which
+32:03
+is honestly rare to break a tap in a part that's already
+32:09
+been through like five setups. Egregious. Egregious. I say there's lots
+32:17
+to do. Uh, I'm not ready to start cutting fins because I've got to build the infrastructure
+32:22
+into the top. Sorry. Here is one of the uh what was
+32:31
+called a bird cage holding the plutonium core. This is one that is not a black
+32:37
+one. This is probably yellow. Uh, and you can see the rubber caps over here.
+32:43
+What you can see is a a a plate with a post on it has been unscrewed from this
+32:50
+hole. And there are four plates with posts on them. This one has just been
+32:55
+plugged up and placed on top here. Now, I'm [clears throat] going to make those threads. I'm going to make them in
+33:02
+aluminum, but I'm going to cut them out of here. And it's a whole thing. I'm going to
+33:08
+actually put in these things and make them unscrewable and make them installable. That's the next big
+33:13
+challenge. So that's the next part I'm tackling. Um
+33:19
+these four things they stored the initiators.
+33:30
+I've got a contiguous uh pit here, a contiguous bulb, but the
+33:37
+plutonium cores were actually cleaved in twain right up the he right up the
+33:43
+equator and they had a void in the middle. And when you wanted to set up the the the atomic reaction, you put the
+33:51
+initiator, which had a code name, the urchin, and you put it inside your file
+33:58
+material. Um, and
+34:03
+the urchins were stored four of them, one in each of these.
+34:10
+So, uh, [snorts] this all depends first of all on.
+34:27
+Anyway, I got to look at my stock, but I'm going to make uh basically a long
+34:33
+I'm going to do an internal thread 2 and 38 in diameter. Then I'm going to slice out some rings of that and I'm going to
+34:39
+turn some external threads on this two and 38 and screw so that
+34:44
+they can screw in the whole thing.
+34:50
+So, uh Oh, yeah. [sighs and gasps] I gotta say, um very satisfying. Um I
+34:58
+had forgotten one of the rules about uh cutting threads in aluminum is when you
+35:04
+get close, you got to be careful cuz you get too much friction there, starts to gall and
+35:10
+everything goes to hell. Uh, I got a little bit of gallling in there I'm gonna have to
+35:15
+pick out with a Anyway, um, here are all four of my little caps and all four of
+35:22
+my little housings. Um, but it's it's dinner time, so I'm going to go home.
+35:44
+Oh, right. Okay.
+36:03
+I am using uh the forstenner bit to do the main meat removal. [snorts]
+36:08
+cooling it down with the air hose frequently to make sure it doesn't get too hot to burn. I'm going to do a final
+36:14
+pass on these sides with a 2-in annular cutter. Um, and that should give me exactly the amount of space around the
+36:21
+threads that I want on the inside of this. This is going to be so freaking
+36:27
+gorgeous. Is this really what I want? It is. It is what I want.
+36:36
+[snorts]
+36:50
+I'm very happy with how this is going. It's been a roller coaster today from the uh breaking the tap, these hot
+36:57
+tools, but uh it's all working. These will just look black with an internal
+37:04
+thread. That's what I'm about to cut. And I'm about to cut some rings of this that will fit in here. Then I will glue
+37:09
+them in, finish the top, paint it, and you won't see the seams. It'll just like this look like this whole thing's made
+37:15
+out of some silver metal. That's the optical illusion.
+37:22
+Hey, good morning. Uh, so all four rings
+37:27
+are cut, threaded, uh, trimmed, and
+37:33
+sitting ever so slightly proud of the top of this. Um,
+37:38
+I'm about to cut the part that threads into here. Um, and I'm cutting the first
+37:43
+one of those. When I was cutting my threads, I did a test, as you remember,
+37:49
+just a few minutes ago, and I gled the threads. And actually, you there's a
+37:54
+you can actually see my gold threads in here. Hang on. I'm going to give you a closeup. There we go. Hold on. I could
+38:01
+clean that up, but I actually cut a second uh a fifth ring. Uh so, the next
+38:06
+step here, I'm just so happy with this. The next step here is that um I will cut
+38:13
+one of the threaded pieces, one of the threaded urchin caps, and just test thread it in all four of these. Once
+38:20
+they all work, then I'm going to super glue them in. I'm going to chuck it into
+38:26
+the mill here. And I'm going to do a very light skim pass with an endmill.
+38:34
+This one I've been saving this one for this operation. Um, yeah. So, I've got this facing mill,
+38:42
+and I'm going to go across this and hopefully make this surface really, really nice and flat. So, when I paint
+38:48
+it, all that uh these these being inserts disappears. Exciting stuff. Uh we should get to the handle before too
+38:55
+long. Right. I know. Very cool. To the lathe. Oh, right. Hey, wait, wait. I
+39:01
+wanted to tell you. Okay. So, uh, those caps, the caps that I'm cutting,
+39:07
+they look like they look a little like this. It's 1 in in diameter. It's not exactly 2.375 on the bottom, but it's
+39:15
+675 tall. So, I've got to cut a 1 in wide plug that's less than 3/4 of an
+39:22
+inch wide out of this chunk. Now, normally you just sit there and hog and
+39:27
+hog and hog and hog with a with a lathe bit and probably my like universal bit.
+39:33
+I love this one. Uh but I'm doing it in a different way. I'm actually going to use another annular cutter because this
+39:39
+gives me a 1 in internal center. So, I'm going to plunge this into here
+39:46
+uh 6 uh 7 probably so I can trim it back. Uh, and then I'm gonna come in uh
+39:53
+with the cut off bit here uh and trim it. And I'll end up with
+39:58
+this like hollow plug from four of these. That's the plan. That's the goal.
+40:13
+[music]
+40:20
+Hey,
+40:44
+[music]
+41:04
+[music] Hey, hey, hey. [music]
+41:17
+Hey,
+41:29
+hey, hey.
+41:47
+[music]
+41:58
+Heat. Hey, heat. Hey, heat.
+42:14
+[music]
+42:20
+[music] Um I have cut my four caps. They are all
+42:26
+within tolerance. They need some post operations. But after cutting these, right, and remember the whole operation
+42:33
+was that I threaded a big chunk of aluminum first just so I could get these four plates that were threaded on the
+42:40
+outside to screw in here. And I guesstimated that I had plenty of
+42:46
+thread. I cut that long thing of thread. That's what's left. less.
+42:56
+I am thrifty and when it comes to shop materials, I can be parsimonious and I
+43:02
+really got to get over that. I really should have extended this another inch or two if these had been seriously 50
+43:10
+thou thicker each one. I would have been boned there. If you're going to do a single point
+43:17
+thread, you better do all that you need because to come back and do it again is a boring slog. Uh, but the uh, CA glue
+43:26
+has now set on these rings. And again, they're all just a tiny bit proud. So,
+43:31
+they're going to get a nice gentle face cut. That's the next thing.
+43:46
+Ow. Got a nasty paper cut. Hang on.
+43:53
+Okay, the urchin caps are done. I swear I
+43:58
+think I can um cut my grooves now. I believe I can cut
+44:04
+my grooves. These uh these had many operations. these two holes for a
+44:10
+spanner wrench. Center hole, uh, drilled out and threaded quarter20. Um, I'll be
+44:17
+attaching the urchin stand to the back here. Uh, but these guys will live over here for right now.
+44:30
+We get all the way around. We go 2 and 12 in from the top. So,
+44:42
+okay.
+44:54
+This this this this operation is um if I mess this up,
+45:00
+there's there's not much I can do. So I can glue some parts back on and repair. But it's a big it's a big fix. So I take
+45:06
+each of these steps methodically and slowly. And I put my hand on it just so I can
+45:12
+feel if any vibrations happening. That is untored untored.
+45:31
+Heat.
+45:42
+Heat.
+45:58
+[snorts]
+46:09
+Oh,
+46:14
+let's see what happened. Oh crap. Okay, I'm gonna have to repair that.
+46:19
+Oh, that's not going to be so bad. We're going to cut these by hand and then we'll repair them with some uh UV
+46:27
+resin.
+46:38
+Great. All right.
+47:25
+Hey, hey, hey.
+47:38
+Oh, well that's different.
+48:03
+Hey, it's actually working.
+48:37
+I've got a temporary handle in. I'm pretty happy with it. I could do better on that shape. Um I may have it uh water
+48:44
+cut. Um but I've got some sample blocks in. I haven't tapped all four holes for
+48:50
+those. But this is now sufficient for me to take this home uh and think about it
+48:55
+tonight. Uh so what is left to do still? Um
+49:01
+priming and painting it. And painting it is baking a crackle finish onto it as I did with uh some uh Araflex gear that I
+49:09
+fixed a couple years ago. Um but I am going to put all this together. This has
+49:14
+been a really productive day. It's like six o'clock. I'm never here this late. It's awesome.
+49:50
+Wait, get him up. Boink.
+49:57
+I'm really This This is awesome. This is really This is
+50:02
+something special. I'm having fun. Can you tell? Maybe two full days of work on this. We'll see.
+50:09
+What have Huh?
+50:23
+Heat.
+50:47
+I am I am I am the handle comes along. Look at that. Look at that. Look at
+50:53
+that. I have to soften the edges of this delrin now. But that's the easy part.
+50:58
+The hard part was getting these two shapes to match up with this and then be slightly Yeah. and allow the aluminum to
+51:04
+be slightly proud. It's ideal. So now I'm going to shape these top and bottom.
+51:09
+I'm going to then clamp them into place and drill out four holes for brass pins.
+51:15
+And then I'm going to epoxy the whole thing together like I'm making a knife.
+52:03
+[clears throat]
+52:27
+There we go. Okay, let that set. And that should be
+52:34
+quite a nice handle.
+52:47
+All right. Polish, polish, polish.
+52:56
+Hey, the handle's looking pretty legit. So, I just had this whole thing with
+53:01
+this business where I can't even tell you. Like this is the fourth
+53:08
+piece I have made to be the handle. Um I'm very attached to it cuz I don't want
+53:14
+it to break anymore because I don't want to make another one because of all the cascading things to make from it. And
+53:19
+when I first put it in here, it was like rubbing against one of these guys and that's like a disaster. So then I could
+53:26
+see that if I kicked it out and then moved it in. But like I'm trying to bend something now that I've already made parts for. So I'm nervous. And actually
+53:33
+in the end it all worked out pretty great. Uh there's still a bunch of like final
+53:38
+finishing and polishing to do on the finishes on the metal and on the crackle finish on this uh the formula for the
+53:46
+crackle finish. We could just include it in the in the in the comments because it's just this
+53:53
+is what I love. This is the PJ1 fast black and it's two coats 3 minutes
+53:59
+apart and then bake at uh 125 or 150 for about an hour.
+54:06
+That's what I'm finding works really really great. And I will do a couple
+54:12
+more passes on this because I have been well I'm impatient so I'll paint it and then I'll pull it out and I'll touch it
+54:18
+and I got to repaint the whole thing cuz that's what happens when you're impatient. You touch a paint job. Um,
+54:25
+one really nice thing is that now this has a um a a soft return on the handle.
+54:32
+It's actually quite it's quite nice on your on your on your hand. It's not like
+54:38
+it doesn't hurt your hand to pick it up anymore. We're getting really close. We're
+54:44
+getting We're getting We're getting really close. All right, the last thing. The last
+54:49
+thing. The last thing. [gasps] Yeah, the last part is going to
+54:54
+be maybe the most fun in which it's going to be next week, but for you
+55:00
+it's just going to be a couple minutes. But what we're going to do is we're going to uh put the So, you remember how
+55:06
+I pointed out that this has rubber bumpers on it keeping it? So, those have to be installed, which means they have
+55:12
+to be drilled out. And in order to be drilled out, well, if you want to drill out some rubber on the lathe, you got to
+55:19
+follow the instructions of the guy who built the magnesium case of Los Alamos, which is to get a doer of liquid
+55:25
+nitrogen. Then I will bring that back here, put it in a lab, bit a lab glass, and put a a stopper in it, and I'll pull
+55:32
+it out. And apparently, it's just like milling delin, which I do all the time. So uh that will be the final piece of
+55:39
+resistance that brings this all to the final dimension and the final thing adding 20 of these rubber stoppers. Now
+55:46
+liquid nitrogen is a very useful tool in a machine shop because you can use it
+55:52
+for differential heating to do press fits. That is you can take two things
+55:57
+that are like a interference fit and you can heat one up and you can cool one down and they'll slide together and then
+56:03
+when they both accrete back to the normal room temperature nothing will get them apart. And a great way to get stuff
+56:09
+cool, liquid nitrogen. We're going to use liquid nitrogen to freeze these corks, tuck them into my lathe here
+56:17
+[snorts] and uh try and machine them out. Uh you know what? Let's
+56:26
+I'm going to say like Terrell, I want to see a negative before I present you with a positive. Um I'm going to take a
+56:31
+number seven and drill it out without anything and we'll see how that goes.
+56:48
+Oh, that's not bad. Wait a minute. That's not bad at all. Hang on. Ah,
+56:54
+that's amazing. That actually worked quite nicely. But wait, I don't like
+57:00
+I didn't even try it. After all that liquid nitrogen is totally unnecessary. Completely unnecessary. I'm able to
+57:06
+drill these. I don't know why I'm walking away from camera. Uh, this is hilarious. I didn't need the liquid nitrogen at all. It was unnecessary for
+57:12
+this. Although, I made the mistake of buying
+57:19
+20 when I needed 20. That was idiotic. Um, if you leave rubber corks in liquid
+57:25
+nitrogen for too long, uh, tension builds up. The outside gets cool and the
+57:31
+inside, I guess, wants to expand and they pop. They blow up. They They Yeah.
+57:37
+Yep. So, uh, I'm going to draw out these 15. I'm going to order another five. And, um, yeah. The next few shots we'll
+57:44
+be wrapping this puppy up. [music]
+57:58
+That worked great.
+58:03
+[music]
+58:14
+Heat. Heat.
+58:41
+[music]
+58:58
+Hey everybody, welcome to the new ending of Demon Core. I've just spent two months
+59:04
+with this object in my head. Officially, the box I made is one of at least three
+59:12
+that were built at Los Alamos. These boxes, as I've said elsewhere in the video, were magnesium boxes built by um
+59:22
+Ralph Sparks is the machinist who built the two magnesium boxes with the cooling
+59:29
+fins for keeping the uh what was known as the gadget core
+59:37
+uh temperature stable and protected. This is this is the replica of the
+59:42
+gadget core 3.62 62 diameter uh plutonium core. We've seen multiple
+59:48
+versions of the outside of this box. I can find no indication of what the inside of the box looks like. This is my
+59:55
+best guess. Uh some of the other replicators of this prop have come to the same guess that the ball sits kind
+1:00:00
+of high here so that you can actually grab it. If it sits anywhere more buried, it' actually be really hard for
+1:00:06
+most people to reach out and grab it. The gadget core was the only one that was covered in a chemical etch process
+1:00:13
+and left black. The other two uh containers were both bright yellow. They
+1:00:18
+may have had the same chemical deposition coating as part of the protective layer. I'm not sure, but
+1:00:23
+again, what we know about them is very limited. Um, I also discovered that uh
+1:00:28
+my earliest suspicion about these four ports was correct that um Ralph Sparks
+1:00:35
+actually made four ports into the case uh to house what is called the urchin
+1:00:41
+initiators. Um, so just to be really clear, uh, when this was being made
+1:00:48
+ready for the the the Trinity blast, the gadget, um, this was, uh, split in two
+1:00:55
+and had a void in the middle of it. And the final assembly of the bomb was to
+1:01:00
+put the initiator, which is also a little nested ball of several kinds of metals that all had to do with the
+1:01:06
+implosion, and that would be placed inside this, and that would be placed inside the thing. So this carried
+1:01:11
+everything. He said they wanted him to carry three initiators. Uh and so he made these four ports. He
+1:01:18
+says in the literature that he made them uh in the bottom of the case. Clearly they're in the top of the case. So maybe
+1:01:23
+the thing shifted over time. The design charge shifted. Why? Why? Why? Why? Why
+1:01:29
+make this? [laughter] It's such a really good question because I feel like I didn't even realize. I
+1:01:36
+sent a picture of this to Kyle Hill and he was like, "Dude, that's museum quality." And I was realizing, "Oh, great. It actually it actually really
+1:01:42
+is. It's a great demo model." And I want to talk about it as a demo model because
+1:01:48
+I think that's really powerful to have an object in front of you. And honestly, when you see these rubber stoppers up
+1:01:54
+close and you realize the design, it's amazing. Uh I find it amazing. I find
+1:02:02
+this connects me with the group at Los Alamos in a way that I'm really surprised by. But I also want to talk
+1:02:08
+about the research because the research for this went down a path that I go down
+1:02:13
+a lot, right? So, uh I start by gathering just everything I can, every
+1:02:18
+picture, every every uh every picture of anything to do from the time. And then
+1:02:24
+[clears throat] I start opening those pictures up and I start looking through them and I look in the backgrounds for information that I need to know. I start
+1:02:31
+to start to wrap my head around the totality of this object. And I'll be
+1:02:37
+honest, like it took me a couple of weeks. I look at my Evernote document. I started it two months ago. Um, so 60
+1:02:46
+days worth of research is in here. And honestly, [snorts] each stage that I learn something impressive in the
+1:02:52
+research, I feel like I'm dumb until then. Like I I discover something like
+1:02:58
+somebody wrote an article in which they explained this was the first one. It held the gadget cord. The other one held this. The other one held this. There
+1:03:03
+were different sizes of pits. That article somehow I didn't catch it in the first pass of research I did about this.
+1:03:10
+So what is that first pass of research? Well, the first pass is the first things I know about it. So I start searching
+1:03:16
+demon core containers, demon core containment, demon core box, demon core
+1:03:22
+magnesium. I knew it was made of magnesium. Then I realized that uh demon core is its own story and it's not
+1:03:28
+usually attached to this box. So then I start looking up plutonium core that yields more images. So then I start
+1:03:35
+doing some research. Someone has screenshot part of a book about Ralph Spark's description of building this
+1:03:40
+box. Um and I'm trying to like overlap all the different research I have to
+1:03:46
+figure out the structure. And this is not new territory. Uh I want to highlight three uh three other makers
+1:03:54
+who have delved down this path whose research was really important to me. Uh
+1:03:59
+the first one is Fuzzy Raptor made a 3D printed version of this. It's available on printables right now. It's great.
+1:04:06
+It's great. Um Adam Parseek also made one about six years ago and made a whole
+1:04:11
+YouTube video about it. We're going to link to all these folks in the description. Um, Adam Parseek made an
+1:04:17
+absolutely beautiful handle because he had it water cut out of stainless. I mean, so so pretty. Um, and Adam Parseek
+1:04:25
+even machined the outside of his out of a similar material I did, which is a monolithic engineering resin. Uh, he
+1:04:32
+used Ren Shape, which is one of my favorite materials. I used Rich Light. just watching other people. I I don't
+1:04:38
+like to look at other people's uh uh videos solving the same aesthetic problems I'm trying to solve, but I do
+1:04:46
+love looking at other people building the same structure that I'm building. And uh the last guy is Ross Sacket on
+1:04:52
+the RPF back in 2017, 9 years ago. He also made a yellow one and covered the
+1:04:57
+build and presented some beautiful pictures. And look, I came to an ever sos slightly different opinion about the
+1:05:04
+hinges of any one of those folks because we're all all four of us are different. And that's that's the beauty of this
+1:05:11
+kind of exercise. As I've been going to finish this, I've been confronted with a couple of questions. And these won't get
+1:05:16
+answered in this video, but uh I I I want to talk about those questions because when I get to be a completist,
+1:05:24
+oh boy. So, uh, one of the more fertile, uh, places to go searching for extra
+1:05:31
+equipment at Los Alamos is pictures of Lewis Slottton's work area. Uh, there's benches in the background with some
+1:05:37
+interesting information in them. Um, and I look in those and I'm looking at that because I really want to know I really
+1:05:43
+want to get to something about what the inside here looked like. I might end up putting uh fins on this little stand
+1:05:50
+just to complicate it a little bit. I was toying with the idea of making a gasket around here. I am definitely
+1:05:55
+going to print up a metal label and do a little sink on here so they can sit down
+1:06:00
+in there and sit in the case. But the thing I'm most interested in is these initiators. What went in these guys? And
+1:06:09
+you know, I've made a hole in here. It's about 3 and 12 in deep. It actually it's
+1:06:14
+there's plenty of space for it. I'm really pleased with it and how this all looks. I think I've got it really right. But what did the initiators look like?
+1:06:20
+And for the last two months, I've been throwing in search terms for the initiator.
+1:06:28
+Just hundreds of different search terms for the initiator. Okay. So, remember I said I had a excerpt, a photographed
+1:06:35
+excerpt of a book that describes Ralph Spark's uh construction of the of the
+1:06:41
+box. Well, I went and actually found the whole book online. And when I searched it for uh a couple of key search terms,
+1:06:49
+magnesium was one, I found a deeper description from Ralph Sparks. And in
+1:06:55
+there, he talks about transport for the urchin initiators, but also the tamper.
+1:07:01
+Now, that's part of a structure of a diff of a of one of the kinds of atomic bombs they were developing at the time.
+1:07:06
+But just the word temper when I put it with initiator into uh into the search
+1:07:13
+box, I came across this picture. Now,
+1:07:20
+this is the picture that answers all the questions I've had for two months about what went in here. Why couldn't I find
+1:07:26
+it until now? Well, one reason is because I did not have the right eyes. I
+1:07:32
+did not have enough of this thing in my head to recognize that this picture was
+1:07:38
+the information I was looking for. So, let me give you an example here of how
+1:07:43
+important that is. My friend Ryan Nagata makes amazing space suits. We've covered him on the channel multiple times
+1:07:49
+before. He's an obsessive. We are very we are brothers in obsession. Uh Ryan
+1:07:55
+really makes some the finest parts and I I rever his work and I'm delighted to
+1:08:00
+call him a colleague and a friend. Um and Ryan, you know, goes down the rabbit hole with his space suits. He makes them
+1:08:07
+for clients. They look exactly right. They are just the fidelity is incredible. But the fidelity goes even
+1:08:13
+deeper because as he looks at all the research he has, he's like, I want to make an inner suit. Right? The the white
+1:08:18
+Apollo suits were just the outer coating on this whole inner structure. So he goes and he makes the inner structure.
+1:08:24
+And when he does, he makes sure he finds the exact kind of neoprene that was the inner liner. And a few months after he
+1:08:30
+builds this interior with machined aluminum parts, he's noticing that some offging from the neoprene is causing
+1:08:37
+pitting in the aluminum parts he's got that actually match pitting he's seen in Apollo space suits. And so these
+1:08:46
+explorations between this amateur and other amateurs are not idle explorations
+1:08:53
+for some pointless endeavor. Well, I mean, you know, that can be debated, but it's not just play, even though it feels
+1:09:01
+like play, because real information is is refound is is is rediscovered,
+1:09:10
+is built into stories so that we can pass those stories on and understand more. What is the rest of this equipment on here? This is rest of equipment that
+1:09:16
+was on Louiswis Slutton's workbench. I found the exact soldering iron, soldered iron stand. I found the correct tape
+1:09:23
+measure, a universal steel tape. This is a Lufkin brand. And I found his multimeter. Uh, none of this was that
+1:09:30
+expensive. This all just by looking up and zooming in close on the labels. Um,
+1:09:35
+I have to look at something for months and search Google for it endless numbers of time until my eyes are new enough to
+1:09:43
+figure out what information I haven't yet discovered.
+1:09:48
+I found so many descriptions of this. the bird cage, a wire lattice that held the urchin, but I had not I looked for
+1:09:55
+pictures of the bird cage, pictures of the wire lattice, nothing. I found descriptions of things that were absolutely not the bird cage or a a
+1:10:02
+scale difference of like 10x, 100x, I feel like in my way of doing research
+1:10:08
+and like you make and also let me just say I am not a professional researcher.
+1:10:13
+Professional researchers and I have met some of them are a completely interesting breed. Uh that is a
+1:10:20
+fascinating thing and that is a real skill. So I don't think I'm an excellent
+1:10:25
+researcher. I think I'm a pretty okay researcher. Uh it takes me a long time to figure stuff out like I said, but
+1:10:31
+like I wouldn't have come to this conclusion in any other way than the brute force kind of yman digging digging
+1:10:37
+digging way that I did it. I love that this describes what a bunch of young engineers sitting on a desert mesa in in
+1:10:46
+the American Southwest trying to figure out how to safely move around a
+1:10:52
+gazillion dollar ball of the largest secret on the planet Earth at that
+1:10:58
+moment in time. And then you couple all of that brilliance
+1:11:04
+of all of the scientists at Los Alamos and around the United States where they
+1:11:09
+were refining uranium and making parts and triggers and pieces all across the United States.
+1:11:16
+And then every few days my brain [clears throat] zoos out and was like
+1:11:22
+this all to the end of harming other human beings.
+1:11:27
+What a what a bizarre tragedy. It will sink into you just how much human brilliance
+1:11:34
+and ingenuity and collaboration and cooperation and and and and breaching of
+1:11:40
+the vanguards of knowledge all to the end of harming other people. And it's so sad and it's such a tragedy and it's a
+1:11:48
+worthwhile tragedy to dredge up stories for to talk about because that zoom out happens for me. I want to give it to you
+1:11:55
+too. Um, we're going to get some beautiful close-ups, B-roll of this like uh like the guys can do, like nobody
+1:12:02
+else, and we'll wrap out this video. Um, thanks again to Ross Sacket, Adam
+1:12:07
+Parseek, and Fuzzy Raptor for their absolutely vital research into the same
+1:12:13
+object. It's It's been an honor to chew on some of the same mud as you all. Um,
+1:12:19
+excellent work you guys. And uh, yeah, I'll see you guys next time. Cheers. out of mouth.
+1:12:25
+There was part of me that was like, "That was a long long long long monologue. I hope I recorded it. [laughter]
+1:12:31
+It's here. That's good." So, I had a picture of Slottton's workbench where I could only see the word you. But I just
+1:12:38
+started searching uh tape measures and then I did steel tape 25 ft. That's what
+1:12:43
+called it up. Lufkin was the maker of these things. Look at these. Look at this silver text on black. Crazy. You're
+1:12:51
+still here. Great. Uh, I want to tell you about some of the stuff we've got for sale at adamsavage.com,
+1:12:57
+including a new gear bag. I know it looks like two gear bags, but these are two versions of the same bag. And this
+1:13:02
+is a new line we're calling the Everyday Gear Bag, or EDGB. [laughter]
+1:13:08
+Um, this is inspired by a a gear bag I made for a piece of kit last year. I
+1:13:13
+found this beautiful red zipper I really liked and then I took some sailcloth and I made a bag of this form factor and I
+1:13:20
+just sort of fell in love with this kind of lunchboxy uh kind of thing. So, we made a bunch of
+1:13:26
+them. Most of them are in red. A few precious ones are in orange. And if we
+1:13:31
+sell out, we will make some more. Go to adamsavage.com and get y
