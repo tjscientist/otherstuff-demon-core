@@ -1,0 +1,45 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python (utility scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# CAD / 3D-print scratch
+*.bak
+*.fcbak
+*.f3z
+Backup/
+Recovery/
+*.tmp
+
+# Slicer scratch
+*.gcode.bak
+*.3mf.bak
+
+# Photo scratch
+*.psd~
+*.xcf~
+
+# Large source media we don't commit
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.raw
+*.cr2
+*.nef
+
+# Misc
+*.log
+*.zip
