@@ -1,13 +1,17 @@
 # NEXT_SESSION — The Demon Core
 
-Last touched: **2026-05-25 (PM)** — major vol2 rewrite for split-pit + dual-box build plan.
+Last touched: **2026-05-26** — added 13 new figures to vol2: 8 component photos, 2 PD reference drawings, 3 original labeled SVG drawings.
 
 ## State
 
 - **Vol 1 (history):** complete, publishable. 4/5 figures in. One open errata: Daghlian dose figure (200 rad neutron + 110 rad gamma vs. ~510 rem total) cited both ways — resolve before website publication.
-- **Vol 2 (build):** fully rewritten 2026-05-25. New default = Adam-Savage-exact dual-box build (one black crackle / one zinc-chromate yellow) sharing one bisected 3.5″ MT-17F WNF tungsten heavy-alloy sphere with a hand-fabricated Po-Be Urchin replica in the central cavity. Legacy PLA/plywood path demoted to budget appendix §10.
-- **Consolidated HTML:** `03-outputs/The_Demon_Core_Complete.html`, 2 vols / 56 TOC entries / 2.6 MB. Rebuild with `python _build/build_single_html.py`.
-- **Figures:** 14 in `02-inputs/deep_dive/figs/`. Only `fig-missing` is the intentional `build_progress_grid.jpg` placeholder waiting on Jeff's build photos.
+- **Vol 2 (build):** fully rewritten 2026-05-25; figure pass on 2026-05-26 brings vol2 from 7 → 20 figures. Adam-Savage-exact dual-box build (one black crackle / one zinc-chromate yellow) sharing one bisected 3.5″ MT-17F WNF tungsten heavy-alloy sphere with a hand-fabricated Po-Be Urchin replica in the central cavity. Legacy PLA/plywood path demoted to budget appendix §10.
+- **Consolidated HTML:** `03-outputs/The_Demon_Core_Complete.html`, 2 vols / 56 TOC entries / **4.6 MB** (up from 2.6 MB after the figure pass). Rebuild with `python _build/build_single_html.py`.
+- **Figures:** 27 files in `02-inputs/deep_dive/figs/` (14 prior + 10 new photos + 3 original SVG drawings). All FIGURE markers resolve cleanly. No `fig-missing` placeholders remain; `build_progress_grid.jpg` was removed during the 2026-05-25 rewrite, so the build is fig-complete pending Jeff's actual progress photos which can replace any reference photo in §2–§6.
+- **Original labeled drawings (new 2026-05-26):**
+  - `drawing_box_assembly_labeled.svg` — full box cutaway, 21 numbered callouts, material key + build sequence panels (§4 end)
+  - `drawing_sphere_urchin_cross_section.svg` — assembled + exploded views, per-hemisphere machining sequence (§2 end)
+  - `drawing_urchin_replica_detail.svg` — equator + polar views at 3× scale, original-vs-replica comparison table (§3 end)
 - **Git:** not initialized. Per OtherStuff umbrella convention, Jeff runs `git init` + `gh repo create tjscientist/otherstuff-demon-core` when ready to back up.
 - **CAD / manufacturing files:** none yet. `03-outputs/manufacturing/` directories empty.
 
@@ -32,7 +36,7 @@ Last touched: **2026-05-25 (PM)** — major vol2 rewrite for split-pit + dual-bo
 - `02-inputs/Adam Savage Youtube Build Transcript.txt` — full Tested transcript with verbatim machinist commentary
 - `02-inputs/Reference pics and infrmation.txt` — Jeff's seed URLs (Wellerstein, rarehistoricalphotos, BREDL)
 - `02-inputs/research/links.md` — full source bookmark list, expanded 2026-05-25 with build-specific material/supplier links
-- `02-inputs/deep_dive/figs/` — 14 reference images: 4 historical, 4 schematic/cutaway, 3 Adam-box, 3 Sackett-yellow
+- `02-inputs/deep_dive/figs/` — 27 reference images: 4 historical, 6 schematic/cutaway (PD), 3 Adam-box, 3 Sackett-yellow, 8 component photos (Richlite, tungsten sphere, EDM, magnets, thermometer, hinge, stopper, wrinkle paint), 3 original labeled SVG drawings
 - `.claude/CLAUDE.md` — project conventions, current decisions, Progress Log
 
 ## Commands quick-reference

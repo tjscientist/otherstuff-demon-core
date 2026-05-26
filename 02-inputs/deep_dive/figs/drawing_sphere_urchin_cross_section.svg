@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <radialGradient id="tungstenA" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#dadde0"/>
+      <stop offset="60%" stop-color="#888c92"/>
+      <stop offset="100%" stop-color="#4a4d52"/>
+    </radialGradient>
+    <radialGradient id="tungstenB" cx="60%" cy="65%" r="65%">
+      <stop offset="0%" stop-color="#d2d5da"/>
+      <stop offset="60%" stop-color="#828690"/>
+      <stop offset="100%" stop-color="#444"/>
+    </radialGradient>
+    <radialGradient id="urchinG" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#f7d76a"/>
+      <stop offset="70%" stop-color="#b88a25"/>
+      <stop offset="100%" stop-color="#6b4d10"/>
+    </radialGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#222"/>
+    </marker>
+    <marker id="dotB" viewBox="0 0 6 6" refX="3" refY="3" markerWidth="6" markerHeight="6">
+      <circle cx="3" cy="3" r="2.2" fill="#222"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="700" y="40" text-anchor="middle" font-size="26" font-weight="700" fill="#111">Bisected tungsten-alloy pit with Urchin initiator replica — assembly cross-section</text>
+  <text x="700" y="65" text-anchor="middle" font-size="14" fill="#555">89 mm Ø sphere · MT-17F WNF · split on equator · 25 mm central cavity · 4 neodymium magnets</text>
+
+  <!-- ============== LEFT: ASSEMBLED VIEW (cross-section) ============== -->
+  <text x="350" y="105" text-anchor="middle" font-size="16" font-weight="700" fill="#333">View A — Assembled, equatorial cross-section</text>
+
+  <!-- Sphere outline (circle), bisected -->
+  <!-- Upper hemisphere (lifted away for exploded effect — but here ASSEMBLED) -->
+  <!-- Whole sphere centered at (350, 480), radius 250 -->
+  <circle cx="350" cy="480" r="250" fill="url(#tungstenA)" stroke="#111" stroke-width="2"/>
+
+  <!-- Equator split line, visible as thin gap -->
+  <line x1="100" y1="480" x2="600" y2="480" stroke="#fff" stroke-width="2"/>
+  <line x1="100" y1="480" x2="600" y2="480" stroke="#111" stroke-width="1.5" stroke-dasharray="6,3"/>
+
+  <!-- 25mm cavity (25/89 * 500px diameter = 140 px diameter, r=70) -->
+  <circle cx="350" cy="480" r="70" fill="#1a1a1a" stroke="#111" stroke-width="1.2"/>
+
+  <!-- Urchin nested inside (20/89 * 500 = 112 dia, r=56) -->
+  <circle cx="350" cy="480" r="56" fill="url(#urchinG)" stroke="#5a3e08" stroke-width="1"/>
+
+  <!-- Wedge grooves inside Urchin shell — 15 lines radiating in the visible band -->
+  <g stroke="#3a280a" stroke-width="0.8" fill="none">
+    <!-- Top hemisphere grooves (radiating from center toward shell, restricted to upper) -->
+    <!-- For the cross section, just show the grooves on the inner shell face -->
+  </g>
+
+  <!-- Inner pellet (8/89 * 500 = 45 dia, r=22) -->
+  <circle cx="350" cy="480" r="22" fill="#c79a3a" stroke="#5a3e08" stroke-width="0.8"/>
+  <!-- Cross-pin -->
+  <line x1="350" y1="458" x2="350" y2="502" stroke="#5a3e08" stroke-width="1.5"/>
+
+  <!-- Neodymium magnets at equator edges -->
+  <rect x="98" y="473" width="14" height="14" fill="#333" stroke="#111" stroke-width="0.8"/>
+  <rect x="588" y="473" width="14" height="14" fill="#333" stroke="#111" stroke-width="0.8"/>
+
+  <!-- N/S markers on magnets -->
+  <text x="105" y="484" font-size="10" fill="#fff" font-weight="700">N</text>
+  <text x="595" y="484" font-size="10" fill="#fff" font-weight="700">N</text>
+
+  <!-- Polar axis indicator -->
+  <line x1="350" y1="200" x2="350" y2="760" stroke="#a32020" stroke-width="0.8" stroke-dasharray="4,4"/>
+  <text x="355" y="225" font-size="11" fill="#a32020" font-style="italic">Polar axis</text>
+
+  <!-- Dimensions for assembled view -->
+  <g stroke="#222" stroke-width="0.9" font-size="11" fill="#222">
+    <!-- Sphere OD -->
+    <line x1="100" y1="755" x2="600" y2="755" marker-start="url(#arr)" marker-end="url(#arr)"/>
+    <text x="350" y="775" text-anchor="middle">89 mm Ø (3.50″) sphere — 6,273 g</text>
+    <!-- Cavity ID -->
+    <line x1="280" y1="540" x2="420" y2="540" marker-start="url(#arr)" marker-end="url(#arr)" stroke="#fff" stroke-width="1.7"/>
+    <line x1="280" y1="540" x2="420" y2="540" marker-start="url(#arr)" marker-end="url(#arr)"/>
+    <text x="350" y="558" text-anchor="middle" fill="#222">25 mm Ø cavity</text>
+  </g>
+
+  <!-- Callout labels on left -->
+  <g font-size="13" fill="#111">
+    <line x1="350" y1="430" x2="60" y2="290" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="55" y="278" text-anchor="end">A — Upper hemisphere</text>
+    <text x="55" y="294" text-anchor="end">      (tungsten heavy alloy)</text>
+
+    <line x1="350" y1="540" x2="60" y2="700" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="55" y="698" text-anchor="end">B — Lower hemisphere</text>
+    <text x="55" y="714" text-anchor="end">      (identical to A; punch-marked)</text>
+
+    <line x1="100" y1="480" x2="60" y2="490" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="55" y="488" text-anchor="end">C — Equatorial split</text>
+
+    <line x1="106" y1="480" x2="60" y2="420" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="55" y="418" text-anchor="end">D — Neodymium magnet, 6 × 2 mm</text>
+    <text x="55" y="434" text-anchor="end">      (recessed flush; ×4 at 90°)</text>
+
+    <line x1="298" y1="480" x2="60" y2="500" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="55" y="558" text-anchor="end">E — 25 mm spherical cavity</text>
+    <text x="55" y="574" text-anchor="end">      (12.5 mm ball-mill each half)</text>
+
+    <line x1="350" y1="460" x2="640" y2="240" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="645" y="238" text-anchor="start">F — Urchin replica, 20 mm Ø</text>
+    <text x="645" y="254" text-anchor="start">      brass shell, gold-painted</text>
+
+    <line x1="350" y1="500" x2="640" y2="700" stroke="#222" stroke-width="1" marker-start="url(#dotB)"/>
+    <text x="645" y="698" text-anchor="start">G — Inner Be pellet (brass), 8 mm Ø,</text>
+    <text x="645" y="714" text-anchor="start">      cross-pinned with 1.5 mm brass pin</text>
+  </g>
+
+  <!-- ============== RIGHT: EXPLODED VIEW (showing each half + Urchin) ============== -->
+  <text x="1080" y="105" text-anchor="middle" font-size="16" font-weight="700" fill="#333">View B — Exploded (vertical separation)</text>
+
+  <!-- Upper hemisphere lifted up -->
+  <g transform="translate(1080,260)">
+    <!-- half-circle (upper) -->
+    <path d="M -180,0 A 180,180 0 0 1 180,0 Z" fill="url(#tungstenA)" stroke="#111" stroke-width="1.5"/>
+    <!-- Inner pocket: half-spherical (25mm = 50px diameter, r=25 at this scale) -->
+    <!-- 25/89 * 360 = 101, r=50 -->
+    <path d="M -50,0 A 50,50 0 0 1 50,0 Z" fill="#1a1a1a" stroke="#111" stroke-width="1" transform="rotate(180)"/>
+    <!-- Magnet recess markers on rim -->
+    <rect x="-188" y="-7" width="14" height="10" fill="#333" stroke="#111" stroke-width="0.6"/>
+    <rect x="174" y="-7" width="14" height="10" fill="#333" stroke="#111" stroke-width="0.6"/>
+    <!-- A label on rim -->
+    <text x="-100" y="-12" font-size="14" font-weight="700" fill="#fff" stroke="#111" stroke-width="0.3">A</text>
+  </g>
+
+  <!-- Lower hemisphere lifted down -->
+  <g transform="translate(1080,720)">
+    <path d="M -180,0 A 180,180 0 0 0 180,0 Z" fill="url(#tungstenB)" stroke="#111" stroke-width="1.5"/>
+    <path d="M -50,0 A 50,50 0 0 0 50,0 Z" fill="#1a1a1a" stroke="#111" stroke-width="1"/>
+    <rect x="-188" y="-3" width="14" height="10" fill="#333" stroke="#111" stroke-width="0.6"/>
+    <rect x="174" y="-3" width="14" height="10" fill="#333" stroke="#111" stroke-width="0.6"/>
+    <text x="-100" y="22" font-size="14" font-weight="700" fill="#fff" stroke="#111" stroke-width="0.3">B</text>
+  </g>
+
+  <!-- Urchin between -->
+  <g transform="translate(1080,490)">
+    <circle r="60" fill="url(#urchinG)" stroke="#5a3e08" stroke-width="1.5"/>
+    <!-- 15 wedge grooves radiating from inner pellet outward to shell — visible in cross-section -->
+    <g stroke="#3a280a" stroke-width="1" fill="none">
+      <line x1="0" y1="0" x2="0" y2="-58"/>
+      <line x1="0" y1="0" x2="24" y2="-53"/>
+      <line x1="0" y1="0" x2="44" y2="-41"/>
+      <line x1="0" y1="0" x2="55" y2="-23"/>
+      <line x1="0" y1="0" x2="58" y2="0"/>
+      <line x1="0" y1="0" x2="55" y2="23"/>
+      <line x1="0" y1="0" x2="44" y2="41"/>
+      <line x1="0" y1="0" x2="24" y2="53"/>
+      <line x1="0" y1="0" x2="0" y2="58"/>
+      <line x1="0" y1="0" x2="-24" y2="53"/>
+      <line x1="0" y1="0" x2="-44" y2="41"/>
+      <line x1="0" y1="0" x2="-55" y2="23"/>
+      <line x1="0" y1="0" x2="-58" y2="0"/>
+      <line x1="0" y1="0" x2="-55" y2="-23"/>
+      <line x1="0" y1="0" x2="-44" y2="-41"/>
+      <line x1="0" y1="0" x2="-24" y2="-53"/>
+    </g>
+    <!-- Inner pellet -->
+    <circle r="24" fill="#c79a3a" stroke="#5a3e08" stroke-width="0.8"/>
+    <!-- Cross-pin -->
+    <line x1="0" y1="-24" x2="0" y2="24" stroke="#5a3e08" stroke-width="1.5"/>
+    <text x="0" y="80" text-anchor="middle" font-size="13" fill="#5a3e08" font-weight="700">Urchin replica</text>
+  </g>
+
+  <!-- Assembly arrows showing how parts come together -->
+  <g stroke="#a32020" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arr)" fill="none">
+    <path d="M 1080 320 L 1080 430"/>
+    <path d="M 1080 660 L 1080 550"/>
+  </g>
+
+  <!-- Magnets between rim showing magnetic attraction -->
+  <text x="900" y="490" text-anchor="middle" font-size="11" fill="#a32020">N↔S</text>
+  <text x="1260" y="490" text-anchor="middle" font-size="11" fill="#a32020">N↔S</text>
+
+  <!-- =============== BOTTOM PANEL: MACHINING SEQUENCE =============== -->
+  <g transform="translate(0,830)">
+    <rect x="35" y="0" width="1330" height="155" fill="#fafafa" stroke="#888" stroke-width="0.7"/>
+    <text x="50" y="22" font-size="14" font-weight="700" fill="#111">Per-hemisphere machining sequence (after wire-EDM bisection)</text>
+
+    <g font-size="12" fill="#222">
+      <text x="50" y="48">①  Soft-jaw the sphere half flat-face-up in mill vise (89 mm Ø spherical seat in 1018 steel; indicate flat parallel to ±0.05 mm).</text>
+      <text x="50" y="68">②  Edge-find polar axis; locate centroid of the flat face — this is the cavity center.</text>
+      <text x="50" y="88">③  Plunge 25 mm Ø carbide ball-end mill 12.5 mm deep on polar axis. Flood coolant; slow feed (tungsten alloy work-hardens if rubbed).</text>
+      <text x="50" y="108">④  Finish 240-grit flap-roller on die-grinder for soft-satin cavity surface. No mirror.</text>
+      <text x="50" y="128">⑤  Indicate to magnet positions (12, 3, 6, 9 o'clock on rim); recess 6 mm Ø × 2 mm carbide endmill at each. Press-fit magnets N/S paired so halves self-align.</text>
+      <text x="50" y="148">Verify mate: dry-fit a 25 mm steel ball-bearing between hemispheres — ball seats centered, no light visible at equator.</text>
+    </g>
+  </g>
+</svg>

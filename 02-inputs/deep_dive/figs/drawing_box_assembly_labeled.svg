@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#8a4a1f" stroke-width="1"/>
+    </pattern>
+    <pattern id="finHatch" patternUnits="userSpaceOnUse" width="4" height="4" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="4" stroke="#5a3414" stroke-width="0.8"/>
+    </pattern>
+    <radialGradient id="tungsten" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#dadde0"/>
+      <stop offset="60%" stop-color="#888c92"/>
+      <stop offset="100%" stop-color="#4a4d52"/>
+    </radialGradient>
+    <radialGradient id="urchin" cx="40%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#f7d76a"/>
+      <stop offset="70%" stop-color="#b88a25"/>
+      <stop offset="100%" stop-color="#6b4d10"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#222"/>
+    </marker>
+    <marker id="dot" viewBox="0 0 6 6" refX="3" refY="3" markerWidth="6" markerHeight="6">
+      <circle cx="3" cy="3" r="2.2" fill="#222"/>
+    </marker>
+  </defs>
+
+  <!-- Title block -->
+  <text x="800" y="40" text-anchor="middle" font-size="26" font-weight="700" fill="#111">Plutonium-pit carrying box — replica assembly (front cutaway)</text>
+  <text x="800" y="65" text-anchor="middle" font-size="14" fill="#555">7.25 in (184 mm) cube · Richlite phenolic body · split 1/3 from bottom · sphere + Urchin in central cavity</text>
+
+  <!-- ============ CENTER: BOX FRONT CUTAWAY ============ -->
+  <!-- Box body fill (Richlite shown as light tan with hatch on cut faces) -->
+  <!-- Outer box outline -->
+  <rect x="500" y="240" width="600" height="600" fill="#f0e6d2" stroke="#222" stroke-width="2"/>
+  <!-- Cut face hatch on the entire interior (since this IS a cutaway) -->
+  <rect x="500" y="240" width="600" height="600" fill="url(#hatch)" opacity="0.18"/>
+
+  <!-- Horizontal split line at 1/3 from bottom (y = 240 + 400 = 640) -->
+  <line x1="500" y1="640" x2="1100" y2="640" stroke="#222" stroke-width="2" stroke-dasharray="4,3"/>
+
+  <!-- Sphere cavity in lower section: hemispherical pocket -->
+  <!-- Sphere diameter 220 px; 4/5 of sphere below split, so sphere top at split+(-44), center at split+66 -->
+  <!-- Center (800, 706), radius 110 -->
+  <!-- The cavity follows the sphere with about 25 px clearance -->
+  <!-- Lower hemisphere pocket (4/5 of sphere = arc below) -->
+  <path d="M 690,640 A 110,110 0 0 0 910,640 L 910,640 L 690,640 Z" fill="#fffaf0" stroke="#222" stroke-width="1.5"/>
+  <!-- Upper cap pocket (1/5 of sphere = small arc above split) -->
+  <path d="M 690,640 A 110,110 0 0 1 910,640 Z" fill="#fffaf0" stroke="#222" stroke-width="1.5" transform="translate(0,-88)"/>
+
+  <!-- Sphere itself -->
+  <circle cx="800" cy="640" r="110" fill="url(#tungsten)" stroke="#222" stroke-width="1.5"/>
+  <!-- Equatorial split of sphere -->
+  <line x1="690" y1="640" x2="910" y2="640" stroke="#111" stroke-width="1.3"/>
+  <!-- Tiny gap visualization at equator -->
+  <line x1="690" y1="640" x2="910" y2="640" stroke="#fff" stroke-width="0.7" stroke-dasharray="3,2" opacity="0.6"/>
+
+  <!-- Urchin cavity at sphere center: 25mm = sphere diameter 89mm so cavity = 25/89 * 220 px = 62 px -->
+  <circle cx="800" cy="640" r="31" fill="#1a1a1a" stroke="#111" stroke-width="1"/>
+  <!-- Urchin replica nested inside (20mm / 89mm * 220 px = 49 px diameter, radius 24) -->
+  <circle cx="800" cy="640" r="24" fill="url(#urchin)" stroke="#5a3e08" stroke-width="0.8"/>
+  <!-- Inner pellet (8/89*220 = 19px dia, r=10) -->
+  <circle cx="800" cy="640" r="10" fill="#c79a3a" stroke="#5a3e08" stroke-width="0.5"/>
+
+  <!-- Magnets at sphere equator (4 of them at 12,3,6,9 — but front view shows the 3 and 9 only as side discs) -->
+  <rect x="685" y="637" width="8" height="6" fill="#444" stroke="#111" stroke-width="0.5"/>
+  <rect x="907" y="637" width="8" height="6" fill="#444" stroke="#111" stroke-width="0.5"/>
+
+  <!-- Cooling fins on left and right exterior faces (3 below split, 3 above) -->
+  <!-- Left face fins, x=500 -->
+  <g stroke="#222" stroke-width="0.9">
+    <line x1="494" y1="300" x2="500" y2="300"/>
+    <line x1="494" y1="370" x2="500" y2="370"/>
+    <line x1="494" y1="440" x2="500" y2="440"/>
+    <line x1="494" y1="510" x2="500" y2="510"/>
+    <line x1="494" y1="580" x2="500" y2="580"/>
+    <line x1="494" y1="690" x2="500" y2="690"/>
+    <line x1="494" y1="760" x2="500" y2="760"/>
+    <line x1="494" y1="810" x2="500" y2="810"/>
+  </g>
+  <!-- Right face fins -->
+  <g stroke="#222" stroke-width="0.9">
+    <line x1="1100" y1="300" x2="1106" y2="300"/>
+    <line x1="1100" y1="370" x2="1106" y2="370"/>
+    <line x1="1100" y1="440" x2="1106" y2="440"/>
+    <line x1="1100" y1="510" x2="1106" y2="510"/>
+    <line x1="1100" y1="580" x2="1106" y2="580"/>
+    <line x1="1100" y1="690" x2="1106" y2="690"/>
+    <line x1="1100" y1="760" x2="1106" y2="760"/>
+    <line x1="1100" y1="810" x2="1106" y2="810"/>
+  </g>
+
+  <!-- 1/4-20 SHCS perimeter bolts (4 total, shown 2 in cross-section in the upper section) -->
+  <!-- Bolt heads at top, bolts running down through upper into lower -->
+  <g fill="#888" stroke="#222" stroke-width="0.7">
+    <!-- Left bolt: countersunk head visible on top -->
+    <polygon points="535,255 565,255 562,270 538,270"/>
+    <rect x="546" y="270" width="8" height="340"/>
+    <!-- Helicoil in lower section -->
+    <rect x="544" y="610" width="12" height="40" fill="#b0b0b0"/>
+    <!-- Right bolt -->
+    <polygon points="1035,255 1065,255 1062,270 1038,270"/>
+    <rect x="1046" y="270" width="8" height="340"/>
+    <rect x="1044" y="610" width="12" height="40" fill="#b0b0b0"/>
+  </g>
+
+  <!-- Urchin port plugs on top corners (×4; this front view shows the front two) -->
+  <!-- Aluminum cylindrical plugs, with knurled caps protruding slightly -->
+  <g fill="#c8c8c8" stroke="#222" stroke-width="1">
+    <!-- Left front port: 2-3/8" thread; depth ~1.5" -->
+    <rect x="595" y="240" width="60" height="100" fill="#bbb"/>
+    <!-- Plug body -->
+    <rect x="600" y="222" width="50" height="22" fill="#d8d8d8"/>
+    <!-- Plug cap with knurl marks -->
+    <line x1="603" y1="225" x2="603" y2="241"/>
+    <line x1="610" y1="225" x2="610" y2="241"/>
+    <line x1="617" y1="225" x2="617" y2="241"/>
+    <line x1="624" y1="225" x2="624" y2="241"/>
+    <line x1="631" y1="225" x2="631" y2="241"/>
+    <line x1="638" y1="225" x2="638" y2="241"/>
+    <line x1="645" y1="225" x2="645" y2="241"/>
+    <!-- Right front port -->
+    <rect x="945" y="240" width="60" height="100" fill="#bbb"/>
+    <rect x="950" y="222" width="50" height="22" fill="#d8d8d8"/>
+    <line x1="953" y1="225" x2="953" y2="241"/>
+    <line x1="960" y1="225" x2="960" y2="241"/>
+    <line x1="967" y1="225" x2="967" y2="241"/>
+    <line x1="974" y1="225" x2="974" y2="241"/>
+    <line x1="981" y1="225" x2="981" y2="241"/>
+    <line x1="988" y1="225" x2="988" y2="241"/>
+    <line x1="995" y1="225" x2="995" y2="241"/>
+  </g>
+
+  <!-- Thermometer at top dead center: 1/2" NPT boss with 2" dial above -->
+  <g>
+    <!-- NPT boss in box -->
+    <rect x="788" y="240" width="24" height="40" fill="#999" stroke="#222" stroke-width="1"/>
+    <!-- Dial face -->
+    <circle cx="800" cy="210" r="30" fill="#f5f5e8" stroke="#222" stroke-width="1.5"/>
+    <circle cx="800" cy="210" r="26" fill="none" stroke="#222" stroke-width="0.6"/>
+    <!-- Dial ticks -->
+    <g stroke="#222" stroke-width="0.7">
+      <line x1="800" y1="186" x2="800" y2="191"/>
+      <line x1="824" y1="210" x2="819" y2="210"/>
+      <line x1="800" y1="234" x2="800" y2="229"/>
+      <line x1="776" y1="210" x2="781" y2="210"/>
+    </g>
+    <!-- Needle -->
+    <line x1="800" y1="210" x2="817" y2="198" stroke="#a32020" stroke-width="1.4"/>
+    <circle cx="800" cy="210" r="2.2" fill="#222"/>
+  </g>
+
+  <!-- Handle: bent aluminum U-shape with Delrin scales -->
+  <g>
+    <!-- Two upright legs into top of box -->
+    <rect x="710" y="180" width="10" height="60" fill="#bcbcbc" stroke="#222" stroke-width="0.8"/>
+    <rect x="880" y="180" width="10" height="60" fill="#bcbcbc" stroke="#222" stroke-width="0.8"/>
+    <!-- Horizontal bar across top with Delrin scales -->
+    <rect x="710" y="155" width="180" height="25" fill="#222" stroke="#111" stroke-width="0.8" rx="6"/>
+    <!-- Aluminum core visible as silver line between scales -->
+    <rect x="710" y="165" width="180" height="5" fill="#cccccc"/>
+    <!-- Brass alignment pins -->
+    <circle cx="740" cy="167.5" r="2" fill="#c8a040"/>
+    <circle cx="800" cy="167.5" r="2" fill="#c8a040"/>
+    <circle cx="860" cy="167.5" r="2" fill="#c8a040"/>
+  </g>
+
+  <!-- Brass latches on front (visible as small rectangles on split line front edge) -->
+  <g fill="#c4a455" stroke="#222" stroke-width="0.8">
+    <!-- Left front latch -->
+    <rect x="540" y="630" width="40" height="22"/>
+    <line x1="558" y1="630" x2="558" y2="652" stroke="#222" stroke-width="0.6"/>
+    <!-- Right front latch -->
+    <rect x="1020" y="630" width="40" height="22"/>
+    <line x1="1038" y1="630" x2="1038" y2="652" stroke="#222" stroke-width="0.6"/>
+  </g>
+
+  <!-- Piano hinge at back (shown as a small visible edge on back-top corner since this is front cutaway) -->
+  <g>
+    <!-- Hinge knuckle indication on back upper edge -->
+    <rect x="540" y="235" width="520" height="6" fill="#c4a455" stroke="#222" stroke-width="0.5" opacity="0.0"/>
+    <!-- Better: show it as a notation arrow into the back of split line -->
+  </g>
+
+  <!-- Rubber stopper bumpers: 5 per side, mounted on side faces (shown as small filled discs on left/right exterior) -->
+  <g fill="#1a1a1a" stroke="#111" stroke-width="0.5">
+    <ellipse cx="497" cy="270" rx="6" ry="10"/>
+    <ellipse cx="497" cy="380" rx="6" ry="10"/>
+    <ellipse cx="497" cy="490" rx="6" ry="10"/>
+    <ellipse cx="497" cy="710" rx="6" ry="10"/>
+    <ellipse cx="497" cy="800" rx="6" ry="10"/>
+    <ellipse cx="1103" cy="270" rx="6" ry="10"/>
+    <ellipse cx="1103" cy="380" rx="6" ry="10"/>
+    <ellipse cx="1103" cy="490" rx="6" ry="10"/>
+    <ellipse cx="1103" cy="710" rx="6" ry="10"/>
+    <ellipse cx="1103" cy="800" rx="6" ry="10"/>
+  </g>
+
+  <!-- =============== LABELS WITH LEADER LINES =============== -->
+  <!-- Labels on the LEFT side -->
+  <g font-size="13" fill="#111">
+
+    <!-- 1: Bent aluminum handle -->
+    <line x1="40" y1="150" x2="700" y2="165" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="148" text-anchor="start">1 — Bent aluminum handle (1″ × 1/4″ 6061) with</text>
+    <text x="35" y="164" text-anchor="start">     Delrin top &amp; bottom scales, brass alignment pins</text>
+
+    <!-- 2: Thermometer -->
+    <line x1="40" y1="210" x2="768" y2="210" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="208" text-anchor="start">2 — 2″ dial process thermometer (50–550 °F)</text>
+    <text x="35" y="224" text-anchor="start">     in 1/2″ NPT boss, top-dead-center</text>
+
+    <!-- 3: Urchin port plug -->
+    <line x1="40" y1="260" x2="595" y2="232" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="258" text-anchor="start">3 — Urchin port plug — turned aluminum cap,</text>
+    <text x="35" y="274" text-anchor="start">     2-3/8″ external thread (×4 per box)</text>
+
+    <!-- 4: 1/4-20 SHCS -->
+    <line x1="40" y1="310" x2="535" y2="262" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="308" text-anchor="start">4 — 1/4-20 SHCS in countersunk recess</text>
+    <text x="35" y="324" text-anchor="start">     (×4 perimeter, into Helicoil inserts below split)</text>
+
+    <!-- 5: Cooling fins -->
+    <line x1="40" y1="370" x2="492" y2="370" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="368" text-anchor="start">5 — Cooling fins — 3 mm side-mill, 2 mm deep,</text>
+    <text x="35" y="384" text-anchor="start">     12 mm pitch, all 4 side faces (decorative)</text>
+
+    <!-- 6: Richlite -->
+    <line x1="40" y1="450" x2="500" y2="450" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="448" text-anchor="start">6 — Richlite phenolic-paper laminate body</text>
+    <text x="35" y="464" text-anchor="start">     (four 8″×8″×2″ slabs epoxy-laminated, milled to 7.25″ cube)</text>
+
+    <!-- 7: Rubber stopper -->
+    <line x1="40" y1="530" x2="491" y2="490" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="528" text-anchor="start">7 — Rubber stopper bumper, #5 drilled,</text>
+    <text x="35" y="544" text-anchor="start">     screw-fixed (×5 per face × 4 faces = 20)</text>
+
+    <!-- 8: Brass latch -->
+    <line x1="40" y1="630" x2="540" y2="641" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="628" text-anchor="start">8 — Antique-brass surface latch, small (×2,</text>
+    <text x="35" y="644" text-anchor="start">     front face, spans the split line)</text>
+
+    <!-- 9: Split line -->
+    <line x1="40" y1="700" x2="500" y2="640" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="698" text-anchor="start">9 — Body split line — 1/3 up from bottom face</text>
+    <text x="35" y="714" text-anchor="start">     (~2.42″ in finished 7.25″ cube)</text>
+
+    <!-- 10: 4/5 cavity -->
+    <line x1="40" y1="780" x2="700" y2="720" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="778" text-anchor="start">10 — Lower spherical cavity, 4/5 swing (~100° arc),</text>
+    <text x="35" y="794" text-anchor="start">      lathe radius-cutter, 3.55″ Ø with 0.05″ clearance</text>
+
+    <!-- 11: Helicoil insert -->
+    <line x1="40" y1="900" x2="544" y2="630" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="35" y="898" text-anchor="start">11 — Helicoil thread insert (1/4-20) seated in</text>
+    <text x="35" y="914" text-anchor="start">      lower section — tap size F (0.272″)</text>
+
+  </g>
+
+  <!-- Labels on the RIGHT side -->
+  <g font-size="13" fill="#111">
+
+    <!-- 12: Upper cap cavity -->
+    <line x1="900" y1="585" x2="1320" y2="320" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="318" text-anchor="start">12 — Upper cap cavity, 1/5 swing (~80° arc),</text>
+    <text x="1325" y="334" text-anchor="start">      retains sphere when box is closed</text>
+
+    <!-- 13: Sphere -->
+    <line x1="850" y1="565" x2="1320" y2="390" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="388" text-anchor="start">13 — Tungsten heavy-alloy sphere, MT-17F WNF,</text>
+    <text x="1325" y="404" text-anchor="start">      89 mm (3.5″) Ø, 6.27 kg @ 17 g/cm³</text>
+
+    <!-- 14: Equatorial split -->
+    <line x1="910" y1="640" x2="1320" y2="455" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="453" text-anchor="start">14 — Equatorial bisection — send-out wire EDM,</text>
+    <text x="1325" y="469" text-anchor="start">      0.25 mm kerf, A/B punch marks on rim</text>
+
+    <!-- 15: Neodymium magnet -->
+    <line x1="918" y1="640" x2="1320" y2="520" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="518" text-anchor="start">15 — Neodymium disc magnet, 6 mm × 2 mm,</text>
+    <text x="1325" y="534" text-anchor="start">      recessed in equator (×4 @ 12-3-6-9 o'clock)</text>
+
+    <!-- 16: 25mm cavity -->
+    <line x1="831" y1="640" x2="1320" y2="585" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="583" text-anchor="start">16 — 25 mm Ø central spherical cavity</text>
+    <text x="1325" y="599" text-anchor="start">      (Urchin home; ball-mill 12.5 mm deep each half)</text>
+
+    <!-- 17: Urchin replica -->
+    <line x1="824" y1="640" x2="1320" y2="650" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="648" text-anchor="start">17 — Urchin initiator replica, 20 mm OD brass,</text>
+    <text x="1325" y="664" text-anchor="start">      gold-painted, 15 wedge grooves on inner face</text>
+
+    <!-- 18: Inner pellet -->
+    <line x1="810" y1="640" x2="1320" y2="715" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="713" text-anchor="start">18 — 8 mm inner Be pellet (brass in replica),</text>
+    <text x="1325" y="729" text-anchor="start">      cross-pinned to outer shell with 1.5 mm brass pin</text>
+
+    <!-- 19: Finger relief -->
+    <line x1="690" y1="640" x2="1320" y2="780" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="778" text-anchor="start">19 — Optional finger-relief scallop (15 × 5 mm),</text>
+    <text x="1325" y="794" text-anchor="start">      at 12/6 o'clock on cavity rim — lifts sphere out</text>
+
+    <!-- 20: piano hinge note -->
+    <line x1="1060" y1="640" x2="1320" y2="845" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="843" text-anchor="start">20 — Brass piano hinge, 3/4″ × 7″, rear face</text>
+    <text x="1325" y="859" text-anchor="start">      (not visible — opposite side of cutaway)</text>
+
+    <!-- 21: Finish -->
+    <line x1="1106" y1="270" x2="1320" y2="910" stroke="#222" stroke-width="1" marker-start="url(#dot)"/>
+    <text x="1325" y="908" text-anchor="start">21 — Finish — Box 1: PJ1 Fast Black Wrinkle, baked</text>
+    <text x="1325" y="924" text-anchor="start">      121–149 °C / 30–60 min · Box 2: Rust-Oleum #1644 yellow</text>
+
+  </g>
+
+  <!-- Dimensions strip at bottom of box -->
+  <g stroke="#222" stroke-width="1" font-size="12" fill="#222">
+    <line x1="500" y1="870" x2="1100" y2="870" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <text x="800" y="888" text-anchor="middle">7.25 in (184 mm)</text>
+    <line x1="1140" y1="240" x2="1140" y2="840" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+    <text x="1158" y="540" transform="rotate(90,1158,540)" text-anchor="middle">7.25 in (184 mm)</text>
+    <line x1="1140" y1="640" x2="1140" y2="840" stroke="#888"/>
+    <text x="1155" y="745" font-size="11" fill="#555">2.42″ (1/3 H)</text>
+  </g>
+
+  <!-- Legend / material key in bottom-left -->
+  <g font-size="12" fill="#222">
+    <rect x="35" y="950" width="500" height="130" fill="#fafafa" stroke="#888" stroke-width="0.7"/>
+    <text x="50" y="972" font-weight="700">Material key</text>
+    <rect x="50" y="985" width="20" height="14" fill="#f0e6d2" stroke="#222"/>
+    <text x="78" y="996">Richlite phenolic-paper laminate (body)</text>
+    <rect x="50" y="1005" width="20" height="14" fill="url(#tungsten)" stroke="#222"/>
+    <text x="78" y="1016">MT-17F WNF tungsten heavy alloy, 17 g/cm³ (sphere)</text>
+    <rect x="50" y="1025" width="20" height="14" fill="url(#urchin)" stroke="#222"/>
+    <text x="78" y="1036">360 brass + gloss gold paint (Urchin replica)</text>
+    <rect x="50" y="1045" width="20" height="14" fill="#c8c8c8" stroke="#222"/>
+    <text x="78" y="1056">6061 aluminum (hardware: plugs, handle core, hinge)</text>
+    <rect x="50" y="1065" width="20" height="14" fill="#c4a455" stroke="#222"/>
+    <text x="78" y="1076">Brass — antique-finish (hinges, latches, pins)</text>
+  </g>
+
+  <!-- Build sequence note bottom-right -->
+  <g font-size="12" fill="#222">
+    <rect x="1065" y="950" width="500" height="130" fill="#fafafa" stroke="#888" stroke-width="0.7"/>
+    <text x="1080" y="972" font-weight="700">Build sequence (per box body)</text>
+    <text x="1080" y="992">1. Laminate 4× 8″×8″×2″ Richlite slabs (24 h cure)</text>
+    <text x="1080" y="1008">2. Face-mill cube to 7.25″ on all sides</text>
+    <text x="1080" y="1024">3. Lathe-cut sphere cavity, both halves (radius cutter)</text>
+    <text x="1080" y="1040">4. Mill ports, thermometer boss, cooling fins, bolt holes</text>
+    <text x="1080" y="1056">5. Install Helicoils, glue Al port-ring inserts, face-mill flush</text>
+    <text x="1080" y="1072">6. Drill stoppers; screw bumpers; finish (paint + bake)</text>
+  </g>
+</svg>

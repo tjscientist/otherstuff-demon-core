@@ -32,11 +32,15 @@ The originals were three magnesium boxes machined to about ±0.005 inch toleranc
 
 The only deviation from "Adam's exact method" is the bisected pit with the working Urchin cavity. Adam left his sphere whole and noted in the closing monologue that the originals were "cleaved in twain right up the equator and they had a void in the middle." Our build closes that gap.
 
+<!-- FIGURE: implosion_weapon_diagram_reference.jpg :: Reference schematic of implosion-weapon design showing the converging shock waves that compress the plutonium pit. Shaped high-explosive lenses produce a converging spherical detonation that crosses the natural-uranium tamper and arrives simultaneously on the surface of the pit, compressing the plutonium to roughly twice its normal density. The same fissile mass that drove the Trinity and Nagasaki shots is the same demon core that — on August 21, 1945 and May 21, 1946 — was driven critical not by symmetric implosion but by hand-placed neutron reflectors (Daghlian's tungsten-carbide brick, Slotin's beryllium hemisphere). Image: File:Implosion nuclear weapon design - shock waves.svg by User:Fastfission. License: Public domain. Via Wikimedia Commons. :: Public domain, via Wikimedia Commons -->
+
 ## §2 The pit — bisected tungsten-alloy sphere
 
 The original demon core was 89 millimeters (3.5 inches) in diameter and 6.2 kilograms (~14 pounds) of δ-phase plutonium-gallium alloy, hot-pressed and nickel-coated, formed as two hemispheres around a 25 mm hollow centered on the polar axis. When the pit was assembled into a bomb the central cavity received the Po-Be Urchin initiator; when the pit was in transport the cavity was usually empty and the Urchin was stored separately in one of the four threaded ports on top of the box (more on those in §5).
 
 <!-- FIGURE: pit_cross_section_lamont1965.webp :: Conceptual cross-section of the Fat Man-style implosion device, showing the two plutonium hemispheres meeting at the equator with the Urchin initiator nested in the central cavity. The U-238 ("Tubealloy") tamper surrounds the pit; outside that are two layers of shaped high-explosive lenses; outside those, the spherical bomb casing about 54 inches in diameter. Conceptual illustration adapted from Lansing Lamont, *Day of Trinity* (Atheneum, 1965). :: Reference illustration, *Day of Trinity* (Lansing Lamont, 1965) -->
+
+<!-- FIGURE: fat_man_cutaway_reference.jpg :: Reference cross-section of the Fat Man implosion device showing the major components surrounding the plutonium pit: outer EC-49 ballistic casing, polonium-aluminum initiator (replaced operationally by the Urchin described in §3), pusher and natural-uranium tamper, plutonium-gallium pit (this build's sphere), boron-plastic shell, and the 32-piece composite high-explosive lens assembly (Composition B + Baratol). Demonstrates how the 89 mm pit fits inside the ~54 inch overall bomb diameter — and why the original carrying box only had to be sized for the pit itself, not for the rest of the device. Image: File:Fat Man Internal Components.png, public domain. Via Wikimedia Commons. :: Public domain, via Wikimedia Commons -->
 
 ### §2.1 Sphere sourcing
 
@@ -57,6 +61,8 @@ Why this alloy specifically:
 
 Order specifications to send to MT: 3.500″ ± 0.005″ diameter, MT-17F WNF, finish "as-ground" (about 32 µin Ra), mercury-free certification, ship via UPS Ground in a fitted foam-lined box. Reference Adam Savage's certificate of compliance (visible on screen at 3:32 in the Tested episode) as the format expected.
 
+<!-- FIGURE: tungsten_sphere_reference.jpg :: Reference photograph of tungsten heavy-alloy spheres in a range of sizes (Elmet Technologies — comparable product line to Midwest Tungsten Service's MT-17F WNF). The 3.5″ sphere ordered for this build will look essentially identical to the silver-grey centerless-ground examples here — close enough to nickel plate at conversational distance to make the optional electroless-nickel plating step (§2.5) unnecessary. Photo: courtesy of Elmet Technologies, retail product page, via web search. :: Reference photo, retail product -->
+
 ### §2.2 Equatorial bisection
 
 The sphere needs to be split exactly on a great circle through the center. There are three practical paths; only one is recommended.
@@ -68,6 +74,8 @@ The sphere needs to be split exactly on a great circle through the center. There
 **Path C — Lathe parting.** Possible but not recommended. The sphere has to be held in a 4-jaw chuck with extreme care (a tungsten sphere with a finished surface and a slip-out trajectory toward the operator's chest is a memorable hazard), and the parting tool will work-harden the alloy as it goes. Skip.
 
 After the cut, mark the two hemispheres with a small letter punch on the back of the rim — "A" and "B" — so they return to their original mating orientation every time.
+
+<!-- FIGURE: wire_edm_reference.jpg :: Reference photograph of an Ona AE300 wire-EDM machine — the class of equipment a local job shop will use to bisect the tungsten sphere on the equator. A 0.010″ brass wire under tension passes through the workpiece while flooded in deionized water; electrical discharges erode the kerf without ever mechanically loading the part. Kerf is ~0.25 mm, the cut faces leave the machine mirror-smooth and need no lapping, and the sphere's centerless-ground exterior is undisturbed. Send-out cost runs $200–$300; turnaround one to three working days. Photo: File:Ona AE300 (Wire EDM Cutting Machine).jpg by Ricard Polls. License: Public domain. Via Wikimedia Commons. :: Public domain, via Wikimedia Commons -->
 
 ### §2.3 Urchin cavity machining
 
@@ -89,6 +97,8 @@ The two halves of the sphere are held together by **four 6 mm Ø × 2 mm thick n
 
 Recess the magnets with a 6 mm carbide endmill at 2 mm depth from the equatorial flat. Press-fit (no glue needed — the recess depth is 0.1 mm less than the magnet thickness so the magnets sit proud by 0.1 mm, ensuring metal-on-metal contact between halves with no air gap). If a magnet has to be removed later, a 4 mm steel rod through the cavity pushes it out.
 
+<!-- FIGURE: neodymium_disc_magnets_reference.jpg :: Reference photograph of N52-grade neodymium disc magnets, 6 mm × 3 mm (the BOM calls for 6 mm × 2 mm — same width, slightly thinner — but 6 × 3 is a more common stock size and works equally well with a deeper carbide recess). Four are used per sphere, paired N-up / S-up at 12, 3, 6, and 9 o'clock around the equator. Pull force per pair is about 3 kg, total ~12 kg — enough to keep the seam tight under normal handling but easily broken by hand for opening. Photo: courtesy of retail product page (Luxtrada), via web search. :: Reference photo, retail product -->
+
 ### §2.5 Surface finish — leave it, or send it for nickel plating?
 
 The default is **as-machined**: the centerless-ground surface that MT delivers reads as nickel plate at a meter, and the build leaves it untouched. This is Adam's path and it's the simpler one.
@@ -96,6 +106,8 @@ The default is **as-machined**: the centerless-ground surface that MT delivers r
 For the absolutist finish, **send out for electroless nickel plating** after the bisection and cavity work are complete. Electroless nickel deposits an even 10–25 µm coating of ~88% Ni / 12% P alloy by chemical reduction (no electrode wires touching the surface, so the geometry is preserved exactly). The result is a brighter, more uniform silver-white that closely matches what the original pit looked like in the LANL recreation photographs. Cost: $75–$150 at any local plating shop; turnaround a few working days.
 
 **Why we don't do it by default.** The plating step has to happen *after* the bisection and the magnet recesses, because plating fills features and the magnets need bare-metal contact. That means handling a $1,500 part through one more process step with one more shop. The as-machined finish is good enough to not be the visual weak link; the plating is an upgrade for a future revision if the build calls out for it.
+
+<!-- FIGURE: drawing_sphere_urchin_cross_section.svg :: Labeled cross-section of the bisected tungsten-alloy pit with the Urchin initiator replica nested in the central cavity. View A (left) shows the assembled equatorial section with key features called out — hemispheres A and B, the equatorial split, the 25 mm cavity, the neodymium magnets at the rim, the 20 mm Urchin shell, and the 8 mm Be (brass replica) inner pellet on its 1.5 mm cross-pin. View B (right) shows the same parts exploded along the polar axis to clarify how the Urchin nests in the lower hemisphere before the upper hemisphere closes the seam. The lower panel lists the per-hemisphere machining sequence after wire-EDM bisection. Drawing: original to this volume. :: Original drawing -->
 
 ## §3 The Urchin replica
 
@@ -116,6 +128,8 @@ Procedure:
 
 The finished Urchin sits in the bottom hemisphere's cavity by gravity. With the lid removed and the box open, the Urchin centered between the two pit halves is the dramatic detail of the whole build.
 
+<!-- FIGURE: drawing_urchin_replica_detail.svg :: Labeled detail of the hand-fabricated Urchin replica at 3× actual size. View A (left) is the equatorial cross-section showing the 20 mm brass shell with its 6 mm wall, the 15 latitudinal wedge grooves on the inner mating face (lathe-cut with a 60° threading tool, ~1 mm deep at the equator tapering to zero at the pole), the 8 mm brass inner pellet, and the 1.5 mm brass cross-pin that centers the pellet inside the shell. View B (right) is the assembled polar elevation — gold-painted exterior with the equatorial seam barely visible after lapping. The lower panel compares the original 1945 Po-Be initiator with this inert brass replica feature-for-feature. Drawing: original to this volume. :: Original drawing -->
+
 ## §4 The box — Adam-exact Richlite build
 
 This is the section where the build follows Adam Savage's transcript line by line. Adam built the black-crackle one; we build two boxes of identical body construction and diverge only at the finish step (§6).
@@ -127,6 +141,8 @@ Each box body uses **four slabs of 8 inch × 8 inch × 2 inch Richlite phenolic-
 Source: **Maker Material Supply**, **Boedeker**, or **Professional Plastics**. Expect ~$30–40 per 2″-thick 12″×12″ slab; cut to 8″×8″ on a table saw before lamination. Two boxes need eight slabs total; budget ~$300 for material.
 
 Adam considered actual magnesium and rejected it on fire-safety grounds: magnesium machining chips burn at very high temperatures and cannot be extinguished with water. Don't second-guess this. Richlite is genuinely indistinguishable from raw magnesium under paint and isn't going to set the shop on fire.
+
+<!-- FIGURE: richlite_material_sample.jpg :: Reference photograph of Richlite phenolic-paper composite stock — the Adam-Savage-exact body material for the box. Richlite is about 65% FSC-certified paper, 35% phenolic resin by weight; it machines like a dense hardwood, sands smooth, takes paint perfectly, and is dimensionally stable across humidity swings. Available in 2″ slab thicknesses from Maker Material Supply, Boedeker, Professional Plastics, and EcoSupply. Photo: courtesy of EcoSupply, retail product page, via web search. :: Reference photo, retail product -->
 
 ### §4.2 Lamination and squaring
 
@@ -165,6 +181,8 @@ Cut on the mill with a 3 mm side mill: parallel grooves 2 mm deep, 12 mm pitch, 
 
 <!-- FIGURE: savage_box_closed_three_quarter.jpg :: Three-quarter view of the finished black-crackle replica box with hardware installed. The horizontal cooling fins are visible on all four side faces; the urchin port plugs, thermometer, and aluminum handle dominate the top; the rubber-stopper bumpers shock-absorb the corners. The split line between upper (~2/3 of height) and lower (~1/3) sections runs above the lower set of bumpers. Photo: courtesy of Adam Savage / Tested — reference photograph from the 2024 build. :: Reference photo, courtesy of Adam Savage / Tested -->
 
+<!-- FIGURE: drawing_box_assembly_labeled.svg :: Labeled cutaway of the completed pit-carrying box, showing every machined and fabricated part. Twenty-one numbered callouts identify: (1) bent-aluminum handle with Delrin scales, (2) 2″-dial process thermometer in 1/2″ NPT boss, (3) urchin port plug (×4), (4) 1/4-20 SHCS perimeter bolt (×4), (5) decorative cooling fins, (6) Richlite phenolic body, (7) rubber-stopper bumper (×20), (8) antique-brass surface latch (×2), (9) body split line at 1/3 height, (10) lower 4/5 spherical cavity, (11) Helicoil insert (×4), (12) upper 1/5 cap cavity, (13) MT-17F WNF tungsten-alloy sphere, (14) equatorial bisection of the sphere, (15) neodymium disc magnet (×4), (16) 25 mm central spherical cavity, (17) Urchin replica, (18) 8 mm inner pellet with cross-pin, (19) optional finger-relief scallops, (20) brass piano hinge (rear; not in the cutaway plane), (21) finish — Box 1 PJ1 Fast Black Wrinkle / Box 2 Rust-Oleum #1644 zinc-chromate yellow. Material key and per-body build sequence appear in the lower panels. Drawing: original to this volume. :: Original drawing -->
+
 ## §5 Hardware — the Adam suite
 
 ### §5.1 Urchin port plugs (×4 per box, ×8 total)
@@ -187,6 +205,8 @@ Top-dead-center on each box, a **2″-diameter process thermometer** sits in a *
 
 The thermometer doesn't have to read accurately. It has to look like the original equipment. A vintage-look dial face from a salvage motorcycle thermometer is even better.
 
+<!-- FIGURE: process_thermometer_reference.jpg :: Reference photograph of a 2″-dial back-entry bimetal process thermometer — the class of instrument specified for the top-dead-center boss. 2″ dial, 1/2″ NPT mount, 50–550 °F range; McMaster #3825K58 is the BOM reference and a $25 close match. The thermometer is functional but does not have to read accurately — it has to look like the original equipment, and the brass-bezel/glass-face vintage style sells the "machined-by-the-military" optical illusion across the rest of the top hardware. Photo: courtesy of vendor product page, via web search. :: Reference photo, retail product -->
+
 ### §5.3 Handle
 
 The handle is a **bent aluminum bar with a Delrin grip** held by brass alignment pins, made like a knife handle. Stock: 1″ × 0.25″ × 12″ 6061 aluminum, bent into a U-shape with a 4″ inside grip width, mounted to the box's top face with two 1/4-20 SHCS into helicoiled threads at the corners.
@@ -204,6 +224,8 @@ After assembly, file or sand the edges of the Delrin to soft curves where the ha
 
 The latches are functional — they hold the box closed in transit. The four perimeter bolts are also functional but are typically left tightened. For day-to-day display use, the latches do the work.
 
+<!-- FIGURE: brass_piano_hinge_reference.jpg :: Reference photograph of a heavy-duty brass continuous (piano) hinge — the rear-face hinge that spans the box's horizontal split line. The 3/4″ × 7″ size called out in the BOM is a stock item at Rockler (#43855) and at most cabinet-hardware suppliers; this product page shows a representative example. The hinge sits flush along the back face; combined with the front-face latches it makes the box openable as a clamshell while the four perimeter bolts remain installed. Photo: courtesy of HDC Hinge & Hardware Co., retail product page, via web search. :: Reference photo, retail product -->
+
 ### §5.5 Rubber-stopper bumpers (×20 per box, ×40 total)
 
 The shock-absorption system on the originals was **rubber test-tube stoppers** — specifically, **#5 size** (or thereabouts; the originals were salvage from the chemistry lab) — drilled through the center, screwed to the box body with a counter-sunk wood screw. Twenty stoppers per box: **five per side × four sides** (top and bottom are clear except for the hardware suite).
@@ -218,6 +240,8 @@ Installation procedure (Adam's hard-learned hardware step):
 4. **Plug** the screw head with a small black rubber dot or just leave the slot visible (originals had visible slots).
 
 Twenty stoppers per box × two boxes = forty stoppers. Buy 50 — Adam notes some will fail and you'll want spares.
+
+<!-- FIGURE: rubber_stopper_reference.jpg :: Reference photograph of a #5-class rubber laboratory stopper (here seated in an Erlenmeyer flask — the same general type used historically). The originals were salvaged from the Los Alamos chemistry stockroom, drilled through the center, and screw-fixed to the box body as shock absorbers. Five stoppers per face × four side faces = twenty per box; #8 × 1″ countersunk Phillips wood screws fix them in place. Modern equivalent: Plasticoid #5 black rubber stoppers, drilled, ~$0.40 each. Photo: File:Rubber bung with flask.jpg by Nadans. License: CC BY-SA 4.0. Via Wikimedia Commons. :: CC BY-SA 4.0, via Wikimedia Commons -->
 
 ## §6 Finish — two parallel paths
 
@@ -234,6 +258,8 @@ The only one of the three original boxes with documented color information is th
 5. **Cool slowly** to room temperature. Inspect for thin spots or sags; touch up with a single light overspray and re-bake the spot.
 
 Result: the deep textured black-on-black finish visible in the Case1/Case2/Case3 reference photographs and on Adam's *Tested* episode.
+
+<!-- FIGURE: wrinkle_paint_texture_reference.jpg :: Reference photograph of the PJ1 Fast Black Wrinkle/Texture spray paint product — the motorcycle-supply paint Adam Savage used on the *Tested* black-crackle box and the one called for in §6A. The wrinkle texture is not produced by the spray itself; it develops *during the 121–149 °C / 30–60 minute oven bake* as the underlying solvent flashes off through the top film. Too thick: shallow crackle. Too thin: no crackle. Test on scrap first. Photo: courtesy of PJ1 (retail product), via web search. :: Reference photo, retail product -->
 
 <!-- FIGURE: savage_box_closed_overview.jpeg :: The black-crackle finish at completion. The wrinkle/texture of the PJ1 paint is visible across all surfaces; the silver-painted aluminum hardware contrasts cleanly against the black body. Bumpers are seated; handle is mounted; the thermometer is at top-dead-center. Photo: courtesy of Adam Savage / Tested — reference photograph from the 2024 build. :: Reference photo, courtesy of Adam Savage / Tested -->
 
